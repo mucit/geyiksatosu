@@ -1,0 +1,443 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<meta name="eflatun" content="eflatunweb">
+<style>
+<!--
+        A:link    {text-decoration: none; color: white; font-family: verdana;}
+		A:visited {text-decoration: none; color: white; font-family: verdana;}
+		A:active  {text-decoration: none; color: white; font-family: verdana;}
+		A:hover   {text-decoration: underline; color: white; font-family: verdana;}
+-->
+</style>
+<title>Sözlük Okur musunuz?</title>
+</head>
+
+<body>
+<bgcolor="blue">
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="84">
+  <tr>
+    <td width="719" bgcolor="#000000" bordercolor="#008080" bordercolorlight="#008080"
+    bordercolordark="#008080" height="80"><p align="center"
+    style="margin-top: 1px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px"><font
+    color="#FFFFFF" face="Verdana"><u><big><strong>D I M</strong></big></u></font></p>
+    <form ACTION="http://nohut.com" method="POST">
+      <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+      onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+      NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+      size="1">
+        <option value="selcted">Bir Konu Seçin </option>
+        <option value="leylek.htm">Leylek Teorisi</option>
+        <option value="alice.htm">Reçel Paradoksu</option>
+        <option value="kola.htm">Kola Fiziği</option>
+        <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+        <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+        <option value="dictionary.htm">Sözlük okur musunuz?</option>
+        <option value="huck.htm">Adam gibi konuş</option>
+        <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+        <option value="cult.htm">Bana kültünü söyle</option>
+        <option value="illogical.htm">Illogical language</option>
+        <option value="prooftech.html">Kanıtlama teknikleri</option>
+        <option value="paradox.htm">Paradokslar üzerine</option>
+<option value="paradoks.htm">Paradokslar</option>
+        <option value="shakespeare.htm">Bir acayip tesadüf</option>
+        <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+        <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+        <option value="fallacies.htm">Vurgulama</option>
+        <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+        <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+        <option value="avni.htm">Fatih'ten gazeller</option>
+        <option value="fal.htm">Neyse halin, çıksın falın</option>
+        <option value="metafizik.htm">Metafizik</option>
+      </select></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="416">
+  <tr>
+    <td width="143" height="412" bgcolor="#000000" valign="top"><p align="center"><strong><font
+    color="#FFFFFF" face="Verdana"><br>
+    <a href="../../index-1.htm"><small>FUAYE</small></a><br>
+    <a href="../../sphinx/index.htm"><small>SFENKS</small></a><br>
+    <a href="../index.htm"><small>DIM</small></a><br>
+    <a href="../../mc/index.htm"><small>MINERVA</small></a><br>
+    <a href="../../solomon/index.htm"><small>SULEYMAN</small></a><br>
+    <a href="../../mak/index.htm"><small>ARCHIMEDES</small></a><br>
+    <a href="../../cafe/index.htm"><small>KAFE ENTROPİ</small></a><br>
+    <a href="../../mails/index.htm"><small>MAIL</small></a><br>
+    </font><font face="Verdana" size="2" color="#FFFFFF"><a href="../../enigma/index.htm">ENİGMA</a><br>
+    </font><font color="#FFFFFF" face="Verdana"><a href="../../lyrics/carmina.html"><small>CARMINA</small></a><br>
+    <a href="../../lyrics/index.html"><small>LYRICS</small></a><br>
+    <small><a href="../../test.html">TEST</a><br>
+    <a href="../../yeni.htm">YENİ</a></small><br>
+    <br>
+    </font></strong></td>
+    <td width="7" height="12" bordercolor="#C0C0C0" bgcolor="#800000" valign="top"></td>
+    <td width="457" height="412" bordercolor="#C0C0C0" bgcolor="#C0C0C0" valign="top"><blockquote>
+      <p>&nbsp;</p>
+      <h2><u><font face="Verdana"><small>Sözlük okur musunuz?</small></font></u></h2>
+      <p><font face="Verdana"><small>Bazı insanlarla tartışmak zordur. Bu yazıda bunun
+      nedenlerinden birini, kelimelerin anlamlarından ve kullanım farklarından doğan
+      sorunları ele alacağım. </small></font></p>
+      <p><font face="Verdana"><small>Kelimelerle ilgili sorunlarda hakem sözlüktür. İnsanlar
+      bu hükme itiraz edebilir; ne de olsa bu onların konuştuğu dildir, çocukluğundan beri
+      konuştuğu dil üzerine bir hakem tayin etmeye ne gerek var? Yine de sözlük, bütün
+      itirazlara rağmen, son başvuru merciidir. </small></font></p>
+      <p><font face="Verdana"><small>Sözlüğe bu hakkı kim verir? Sözlük bu gücünü ve
+      yetkisini nereden alır? Daha da önemlisi, sözlük nasıl yazılır? </small></font></p>
+      <p><font face="Verdana"><small>Türkçe'de en geniş ve en çok cilde sahip sözlüğün
+      hangisi olduğunu araştırmadım, fakat İngilizce'de, dilin her yönü üzerine olduğu
+      gibi kamusu üzerine de ana dili Türkçe olan insanların hayalini zorlayacak
+      çalışmalar yapılmıştır. Bir örnek olarak söylersem, Oxford English Dictionary,
+      genellikle 25 cilt halinde gelir. Tabi 25 ciltlik bir sözlük benim hayalimi aşar. </small></font></p>
+      <p><font face="Verdana"><small>Telif sözlükler (yani, önceden yazılmış olanlardan
+      kopya edilenler değil, birinci el sözlükler) yazarına o dilde yazılmış bir çok
+      eserin taraması ve uzun zaman sürecek fiş<sup>1</sup> (ya da kart) tertiplemesi gibi
+      bir külfet yükler. Bu fişlerde, kelimenin geçtiği yerle birlikte kelimenin
+      kullanıldığı cümle kayıtlıdır. Örneğin şöyle: </small></font></p>
+      <div align="center"><center><table BORDER="1" COLS="0" WIDTH="50%">
+        <tr>
+          <td><font face="Verdana"><small>tesamuh </small></font><p><font face="Verdana"><small>Konfüçyus’un
+          dini, tesamuhu kökleştirdi Batı’da. </small></font></p>
+          <p align="right"><font face="Verdana"><small>Cemil Meriç, </small></font></p>
+          <p align="right"><font face="Verdana"><small>Bir Dünyanın Eşiğinde, 34 </small></font></td>
+        </tr>
+      </table>
+      </center></div><p><font face="Verdana"><small>İngilizce gibi bir dilde yazılacak bir
+      kamus için bu tür fişlerden milyonlarcası birikir. </small></font></p>
+      <p><font face="Verdana"><small>Sonra yazar bu fişleri eline alır, bir kısmını
+      ayıklar ve kelimenin bağlamına (kontekstine) bakarak kelimeye bir tanım yazmaya
+      çalışır. Bunu yaparken o kelimenin kendi kafasında ne anlama geldiğinin önemi
+      yoktur. O dili kullanan yazarlar o kelimeyi hangi bağlamlarda ve anlamlarda
+      kullanıyorsa, kelime o anlamı verecek şekilde tarif edilir. Anlamlar kullanım
+      sıklığına göre sıralanır ve sözlükte yerini alır. </small></font></p>
+      <p><font face="Verdana"><small>Bir dili kullananlar herhangi bir kelime konusunda
+      sözlüğe, o dilde yazan insanların bu kelimeyi ne demek için kullandıklarını bilmek
+      için başvururlar. Sözlük bir kanun kitabı değildir; o bir tarih kitabı gibidir.
+      Yani, sözlük kural koyucu değil, dildeki kullanımları derleyen ve öncekilerin
+      kullanım tarzlarını gösteren bir kitaptır. Sözlük otoritesini işte bu
+      niteliğinden alır. Sözlük milli hafızadır. </small></font></p>
+      <p align="center"><font face="Verdana"><small>*** </small></font></p>
+      <p><font face="Verdana"><small>Kelimeler de doğar, büyür, olgunlaşır ve ölür.
+      Kelimelerin anlamları, kullanım biçimleri, imlaları ve telaffuzları da değişim
+      yasasına uyar. 100 sene önce biri <i>belki</i> dediğinde <i>bilakis</i> (aksine) demek
+      istemiş de olabilirdi. Bugün <i>belki</i> kesinsizlik bildiren bir söz olarak yaşar.
+      Bugün <i>büyük</i> şeklinde yazdığımız ve telaffuz ettiğimiz kelimeyi eskiden <i>böyük</i>
+      daha da eskiden <i>bedük</i> şeklinde yazarlardı. Aslına bakarsak, <i>kabus</i>
+      kelimesini yanlış telaffuz ediyoruz, fakat aslına kim bakar? &quot;Galat-ı meşhur
+      lügat-ı sahihten evladır.&quot; </small></font></p>
+      <p><font face="Verdana"><small>Bir kelimenin anlamı, o güne kadar o kelimenin
+      kullanıldığı bağlamların ortak özelliklerinin soyutlanmasıyla zihnimizde kişilik
+      kazanır. Bu da şu demektir: Biri <i>masa</i> dediğinde her ne kadar onun neden söz
+      ettiğini anlıyorsak da, o anda <i>masa</i> kelimesinin biz de uyandırdığı
+      çağrışımlar konuşan kişide uyandırdığı çağrışımlarla aynı değildir.
+      Öyleyse, bütün çağrışımları ve dış dünyadaki uzantıları göz önüne
+      alındığında, bir kelime aynı anlama asla iki kez gelmez. (Herakleitos ta, aynı
+      nehirde iki kez yıkanamayacağımızı söylerdi.) </small></font></p>
+      <p><font face="Verdana"><small>&quot;İş iştir,&quot; cümlesine bir bakın. Bu cümlede
+      iki kere geçen iş kelimelerinin anlamları aynı mı? Şimdi de şu cümlelere bakın: </small></font></p>
+      <p><font face="Verdana"><small>Ülkemi seviyorum. <br>
+      Annemi seviyorum. <br>
+      Oğlumu seviyorum. <br>
+      Karımı seviyorum. <br>
+      Arabamı seviyorum. <br>
+      Marmaris'i seviyorum. <br>
+      ... </small></font></p>
+      <p><font face="Verdana"><small>Cümleleri dilediğiniz kadar artırın. Sonuçta fark
+      edeceksiniz ki, her cümlede geçen &quot;seviyorum&quot; kelimesi kesinlikle aynı
+      anlamda değildir. Söylenen veya yazılan her kelimenin konuşmacı veya yazarın
+      aklındaki anlamını okuyucu veya dinleyicide de aynen oluşması mümkün mü? Size bir
+      fantazimi aktarayım, bunun mümkün olup olmadığına siz karar verin. </small></font></p>
+      <p><font face="Verdana"><small>Farz edelim ki zihindeki her anlam veya dış dünyadaki
+      her nesne için dilde sadece bir tek kelime var. Bu nasıl olabilir? Bunun bir yolu
+      kelimeleri indekslemektir. Örneğin spesifik bir masa için masa<sub>1</sub>, bir diğeri
+      için masa<sub>2</sub>, ... diyelim. Böylece geçmiş ve gelecekteki her masayı
+      indekslemiş olalım. Ancak bunun da yeterli olmayacağını fark ediyoruz; çünkü bu
+      masalardan bazıları artık yok, ve bazıları henüz var olmadı. O halde her indekse
+      bir harf daha ekleyelim. Örneğin Julius Caesar'ın bir süre kullandığı, ama artık
+      var olmayan masaya masa<sub>7245</sub> dediysek, bunu tam olarak tanımlamak için masa<sub>7245y</sub>
+      şeklinde belirtelim. Yine bir eksik var: Sezar bu masayı 10 yıl boyunca kullandıysa,
+      masa her an başka bir masaydı. O halde indekse bir de tarih ve saat, hatta dakika ve
+      saniyeleri eklememiz gerekir. Yani, bu fanteziye göre, Sezar'ın MÖ 2 Nisan 50, saat
+      16:33'te kullandığı masanın adı şöyle bir şeye benzerdi: masa<sub>7245y0204-50163342</sub>.
+      Hala bazı eksikler var, fakat burada durmalıyım. </small></font></p>
+      <p><font face="Verdana"><small>Bu şemada en önemli nokta, her kelimenin sadece bir tek
+      anlam taşıması ve o anlama karşılık gelen bir nesne varsa, bu nesnenin zamanda ve
+      mekanda sadece bir tek durumunu göstermesidir. Verdiğim örnek somut bir nesnenin
+      adıydı. Sıfatlar ve fiilleri de benzer biçimde göstermeye kalksaydık, pratik olarak
+      sonsuz sayıda kelimemiz olurdu. Böyle bir lügatle konuştuğumuzda birbirimizi
+      kesinlikle doğru anlardık. </small></font></p>
+      <p><font face="Verdana"><small>Peki, hayal gücümüzü biraz daha zorlayıp bu fantaziyi
+      en son mantıksal çıkarımına kadar izleyelim. Bu kadar kelimenin sayısı neye eşit
+      olurdu? Kelimelerin sayısı, evrenin her anındaki mevcut nesne ve olayların
+      sayısının evren tarihi boyunca toplamı kadar olurdu. Pratik olarak sonsuz dememin
+      nedeni budur. Teoride tabii ki sonsuz değildir. </small></font></p>
+      <p><font face="Verdana"><small>Evren tarihinin her anındaki nesne ve olayların
+      durumlarını bilmeden bu kadar kelimeyi üretebilir miyiz? Üretemeyiz. Bu, hem evrenin
+      geçmiş, halihazır ve gelecek bilgisine aynı anda sahip olmak anlamına gelirdi, hem de
+      her insanın doğuştan bu bilgiye sahip olmasını gerektirirdi. Kısaca her insanın
+      evrenle bütünleşmiş olması gerekirdi. Böyle bir durumda da dil kullanarak anlaşmaya
+      gerek kalmazdı. </small></font></p>
+      <p><font face="Verdana"><small>Öyleyse tam olarak anlaştığımızı söyleyemeyiz. Eski
+      bir sözü biraz değiştirerek yazarsam, &quot;cümlenin rivayeti bir amma maksudu
+      muhtelif.&quot; </small></font></p>
+      <p><font face="Verdana"><small>Şimdi şu cümleler üzerinde tartışın desem ilk önce
+      ne yaparsınız? </small></font></p>
+      <p><font face="Verdana"><small>-Türkiye'de demokrasi başarıya ulaşmamıştır. <br>
+      -Kadın mı güçlüdür erkek mi? <br>
+      -Sigara içkiden daha zararlıdır. </small></font></p>
+      <p align="center"><font face="Verdana"><small>*** </small></font></p>
+      <p><font face="Verdana"><small>Kısmen anlaşmayı nasıl başarıyoruz? Bunun başlıca
+      nedeni kelimelerin bağlamıdır. Anlam genellikle bağlamdan çıkar. İki tür bağlam
+      bulunur: Sözel ve fiziksel bağlam. </small></font></p>
+      <p><font face="Verdana"><small>Sözel bağlam kelimenin etrafındaki diğer kelimelerdir.
+      Anlamını bilmediğimiz bir kelime değişik yerlerde kullanılırsa bir tür anlamaya
+      yol açar. <i>Obua</i>nın ne olduğunu bilmediğimizi farz edelim. Şu cümleler obuanın
+      nasıl bir şey olduğu hakkında fikir veriyor: </small></font><ol>
+        <li><font face="Verdana"><small>Şehirde en iyi obua çalan oydu. </small></font></li>
+        <li><font face="Verdana"><small>Ne zaman 3. bölümdeki obua kısmına gelseler çok
+          heyecanlanırdı. </small></font></li>
+        <li><font face="Verdana"><small>Onu bir gün müzik gereçleri satan bir dükkandan obuası
+          için düdük dili satın alırken gördüm. </small></font></li>
+        <li><font face="Verdana"><small>Obua çalmaya başladıktan sonra bir daha klarnet
+          çalmaktan hiç hoşlanmadı. </small></font></li>
+        <li><font face="Verdana"><small>Klarnet çalmanın pek zevkli olmadığını çünkü onun
+          çok kolay olduğunu söylüyordu. </small></font></li>
+      </ol>
+      <p><font face="Verdana"><small>Şimdi şu laflara bakarak <i>pixi</i>nin ne olduğunu
+      anlamaya çalışın: </small></font><ol>
+        <li><font face="Verdana"><small>Benim <i>pixi</i> 20 yıllık, ama hala çalışıyor. </small></font></li>
+        <li><font face="Verdana"><small>Ahmet yeni bir taşınabilir elektrikli <i>pixi</i> satın
+          aldı. </small></font></li>
+        <li><font face="Verdana"><small>Ali <i>pixi</i>yi çok hızlı gibi kullanır. </small></font></li>
+        <li><font face="Verdana"><small><i>Pixi</i>nin tuşlarından biri sıkışmış. </small></font></li>
+        <li><font face="Verdana"><small>Sen ne dersen de, bence <i>pixi</i> abaküsten daha iyidir. </small></font></li>
+      </ol>
+      <p><font face="Verdana"><small>Fiziksel bağlam, kelimenin kendisiyle bağlantılı olarak
+      kullanıldığı fiziksel şartlardır. Hepsi de su üzerinde taşıma işi yapan sal,
+      sandal, kano, yat, vapur, gemi ... gıbi taşıtların anlamları bu kelimelerin nerelerde
+      kullanıldığına bakılarak anlaşılabilir. (Yine de dikkatli olmak gerek, çünkü
+      deniz otobüslerinde yapılan anonslarda, araçtan <i>gemi</i> olarak söz edilir.) </small></font></p>
+      <p><font face="Verdana"><small>Yanlış kelime kullanılsa bile kelimenin anlamını
+      sözel veya fiziksel bağlamdan çıkarabiliriz. Çivi çakmaya hazırlanan usta
+      çırağına, &quot;bana tornavidayı ver,&quot; dese bile çırak ona çekici verecektir.
+      Hatta çoğu zaman &quot;bana şeyi ver,&quot; bile diyebilir, ama çırak ne istendiğini
+      bilir. </small></font></p>
+      <p align="center"><font face="Verdana"><small>*** </small></font></p>
+      <p><font face="Verdana"><small>Dilde mantığa dayalı tartışma yapılamaz, çünkü
+      dilin kuruluşu mantığa dayalı değildir. O dili kullanan insanların kullanım
+      şekilleri nihaidir. Dilciler dilde tekrarlanan durumlardan bazı kurallar çıkarırlar;
+      bunlar çıkarılan kurallardır, konulan kurallar değildir, çünkü dile kural da
+      konulmaz. Size son derece mantıksız gelen kullanım biçimleri dilde yaşayabilir, son
+      derece mantıklı gelen biçimlere de kimse itibar etmeyebilir. </small></font></p>
+      <p><font face="Verdana"><small>Kabak ve patlıcan gibi sebzeleri oyup içlerini bazı
+      malzemelerle doldurarak yapılan yemeğe <i>dolma</i> adını vermek mantıklı
+      görünüyor. Asma yaprağı veya lahananın üzerine malzeme konup yaprağı malzemenin
+      etrafında sararak yapılan yemeğe de <i>sarma</i> demek mantıklı görünüyor. (Bizim
+      oralarda adı gerçekten sarmadır). Fakat bir çok yemek kitabında, sarma tariflerinin
+      dolmalar başlığı altında verildiğine hiç dikkat ettiniz mi? </small></font></p>
+      <p><font face="Verdana"><small>Zeytinyağlı denen bir yemekte çiçek yağı
+      kullanılmış olsa ona çiçek yağlı mı derler? </small></font></p>
+      <p><font face="Verdana"><small>Silmek fiilini geniş zamanda çekelim: Silerim, silersin,
+      siler, .. Şimdi de bilmek fiilini aynı zamanda çekelim: Bilirim, bilirsin, bilir, ...
+      Dilde mantık geçerli olsaydı, bunlardan birinin yanlış çekildiğine hükmederdik. </small></font></p>
+      <p><font face="Verdana"><small>Taze kelimesinin tersi (zıt anlamlısı) nedir? Elbette ki
+      bayat, çünkü ekmek taze değilse bayattır. Peki pazardan fasulye aldım, ama taze
+      fasulye değil. Sizce ne fasulye? </small></font></p>
+      <p><font face="Verdana"><small>-ci, -cı ekinin işlevleri nelerdir? En yaygın olanları
+      şunlar: </small></font><ol>
+        <li><font face="Verdana"><small>Meslek (alım-satım, kontrolör): çiçekçi, kitapçı,
+          kapıcı, biletçi ... </small></font></li>
+        <li><font face="Verdana"><small>Görüş: milliyetçi, Türkçü, Amerikancı, sağcı,
+          solcu ... </small></font></li>
+      </ol>
+      <p><font face="Verdana"><small>Bu açık tanıma rağmen her zaman kelimenin kökünden bu
+      anlam çıkmayabilir: verici, alıcı (mektup veya televizyon/radyo alıcısı). <i>Yolcu</i>
+      kelimesinde hangi anlamda kullanılmıştır? <i>Yabancı</i>da? <i>Almancı</i> ne
+      demektir? (Bu son kelimede en az iki ayrı anlam var: Almanya'da yaşayan/çalışan Türk
+      veya politik olarak Almanya'nın tarafında). </small></font></p>
+      <p><font face="Verdana"><small><i>Türkiye</i> kelimesi Türkçe mi? <i>Türk</i>
+      kısmında bir sorun yok, sorun yer bildiren -<i>ye</i> ekinde. Türkçe'de yer bildiren
+      böyle bir ek biliyor musunuz? Arapça mensubiyet eki olsaydı, Türkiyye; Latince yer eki
+      olsaydı, Türkiya ( Trakya, Klikya, Kapadokya gibi) dememiz gerekirdi. Bence ikisi de
+      değil, bu kelime bir zamanlar olmasa bile artık halis Türkçe. </small></font></p>
+      <p><font face="Verdana"><small>Bir ara &quot;Turkey değil, Türkiye&quot; kampanyası
+      vardı. Kanaatimce dilin nasıl oluştuğunu anlamayan insanların başlattığı bir
+      tartışmaydı bu. Bizim dilimizde onların ülkelerinin adı nasıl ABD, İngiltere veya
+      Almanya'ysa onların dilinde de ülkemizin adı Turkey veya Türkei'dir. Oralarda hiç
+      kimse, &quot;bu ülkenin adı böyle olacak,&quot; diye kural koymamıştır. Bu onların
+      tarihi ile ilgilidir. </small></font></p>
+      <p><font face="Verdana"><small>İngilizce <i>turkey</i> kelimesinin <i>hindi</i> anlamına
+      geldiğini öğrenenler, bu bilgiyi argüman olarak ileri sürüyorlardı. Tabi, bu da
+      geçersizdi. Aynı mantıkla hareket edecek olursak, Hindistan'a da başka bir isim
+      vermemiz gerekecek, çünkü bu kelime de <i>hindi ülkesi</i> anlamına geliyor. Bizim
+      gibi düşünüyorlarsa, Hintliler de alınıyor olmalılar. Ayrıca Hintlilerin kendi
+      ülkelerine kendi dillerinde ne dediklerini bileniniz var mı? (Bizim <i>Everest Tepesi</i>
+      dediğimiz yerin o yöre halkının dilindeki adı nedir?<sup>2</sup>) </small></font></p>
+      <p><font face="Verdana"><small>Yunanlılar, &quot;sizi hindi gibi yiyeceğiz,&quot; diye
+      tevriye yaparlarmış. İyi, biz de şöyle diyelim: &quot;Almanya'yı elma gibi yeriz,
+      İngiltere'yi tere gibi salatamıza doğrarız, İtalyanları it gibi kovalarız,
+      ...&quot; Bunları diyebilir miyiz? Desek ne yazar? Onlar bunu umursar mı? Daha da
+      önemlisi, bu konu ülkenin adını değiştirmekle ne kadar ilgili?<sup>3</sup> </small></font></p>
+      <p><font face="Verdana"><small>Eskiden sadece ilim vardı, sonra mevcut kelimelere
+      Türkçe kökenli karşılıklar bulma kampanyası çerçevesinde bilim önerildi. Bu
+      kelime tutundu, ama ilim ölmedi. Bir &quot;ilim mi, bilim mi?&quot; tartışması
+      başladı. Taraflar ilim ve bilim sınıfına giren konuları kendi dünya görüşlerine
+      göre tasnif etti. Kimisi hepsine ilim, kimisi hepsine bilim kimisi de bir kısmına ilim
+      bir kısmına bilim dedi. Bence tamamen gereksiz bir tartışmaydı; çünkü ona ne
+      dediğimiz dış dünyanın umurunda değildi; ayrım sadece zihnimizdeydi. Ben genellikle
+      bilim derim, bilimin doğru kelime olduğuna inandığımdan filan değil (zaten bence
+      doğru ya da yanlış kelime yoktur, anlaşmamızı sağlayan ya da anlaşmamıza engel
+      olan kelime vardır), sadece bilim demek hoşuma gittiğinden, yoksa arada her hangi fark
+      görmediğim gibi, fark olarak ileri sürülen her hangi bir fikrin de savunulabileceğini
+      düşünmüyorum. İlgilenen, İngilizce'de bu tartışmanın niçin yapılmadığını da
+      araştırabilir. </small></font></p>
+      <p><font face="Verdana"><small>Önceki paragrafta sözü edilen kampanyada mevcut
+      kelimelere karşılıklar bulunacağına Türkçe'de karşılığı olmayan kavramlara
+      kelime bulunsaydı, kampanya saygı duyacağım bir hareket olurdu. Şimdi umurumda bile
+      değil, çünkü basit bir örnek olarak, ben <i>suggestion</i> veya <i>prediction<sup>4</sup></i>
+      kelimeleri gibi bir çok kelimeyi Türkçe ifade edebilmeyi isterdim. </small></font></p>
+      <p><font face="Verdana"><small>O kampanyanın kural koyucu olması da dilin tabiatına
+      aykırıydı. Bir kelimeyi o dili kullanan yazarlar önerir. İnsanlar beğenirse kelime
+      yaşar, beğenmezse ölür. Ama aynı kelimeye bir kaç on yıl içinde birden fazla
+      karşılık önerilince ve her karşılığı kullanan bir kitle olursa, üstelik
+      bunların arasında bilimsel kelimeler de varsa, benim gibi pire için yorgan yakan biri
+      hepsini protesto eder ve yabancı kökenlisini kullanır. Örnek mi istiyorsunuz? </small></font></p>
+      <p><font face="Verdana"><small>Relativite karşılığı olarak eskiden izafiyet vardı.
+      Sonra bir furya başladı: Görecelik, görelilik, bağıl hareket ... Lise kitaplarında
+      bağıl hareket diye geçen bu kelimeyi piyasadaki kitaplarda göreli hareket, göreceli
+      hareket şeklinde bulabilirsiniz. Ben de hepsini protesto edip inatla relativiteyi
+      kullanıyorum. </small></font></p>
+      <p><font face="Verdana"><small>Bilim-kurgu mu, kurgu-bilim mi? İngilizce aslına (<i>science
+      fiction</i>) bakılırsa, bilim kurgu gibi görünüyor, ancak yine de bir sorun var:
+      Latince köküne<sup>5</sup> bakarak f<i>iction</i> her ne kadar <i>kurgu</i> olarak
+      tercüme edilebilirse de, kurgu kelimesinin Türkçe'de taşıdığı anlamı taşımaz.
+      Aslında kökün ne önemi var? Bir kütüphanede romanları <i>fiction</i> başlığı
+      altında aramanız gerekir. Yani, anadili İngilizce olan biri için <i>science fiction</i>
+      <b>bilim romanı</b> demektir. Tarihi bir romana kim <i>tarih-kurgu</i> romanı der ki?
+      Bence burada tartışmaya gerek bile yok. Anadili Türkçe olan insanlar zaman içinde o
+      tür romanlara bilim kurgu derlerse adı bilim kurgu olur, kurgu bilim derlerse adı kurgu
+      bilim olur. Bu da hangi kelimeyi kullanacağımızın tartışmasını yaparak değil,
+      Asimov, Huxley, Wells, Verne vs gibi dünya çapında okunan BK yazarları yetiştirerek
+      olur. &quot;Bana bir BK yazarı söyle,&quot; dediğimde aklınıza hiç bir Türk yazar
+      gelmiyorsa, o türün adının kurgu bilim veya bilim kurgu olmasının pratik ne değeri
+      var? </small></font></p>
+      <p><font face="Verdana"><small>Kelimelerle ilgili tartışmalarda genellikle gözden
+      kaçırılan bir başka nokta da bir kelimenin, o kelimenin gösterdiği nesne ile ilgili
+      olması gerektiğinin sessizce kabul edilmesidir. Örneğin önceki paragraftaki
+      tartışmaya, &quot;doğrusu bilim-kurgudur, kurgu-bilim olmaz, çünkü bilim
+      kurgulanmaz,&quot; şeklinde getirilen bir argümanda bu kabul vardır. Korzibski'nin
+      belirttiği gibi, haritanın nasıl araziyle hiç bir benzerliği yoksa, kelimenin de
+      gösterdiği kavramla ilgisi yoktur. Bu bağlamda şu espri yapılır: Her nesneye
+      yaptığı işe göre ad verilseydi, iğneye diken, dikene batan, kazmaya da kazan dememiz
+      gerekirdi. Peki bu durumda kazana ne denirdi?<sup>6</sup> Tabi, &quot;iğne&quot; batmaz,
+      &quot;makas&quot; kesmez, &quot;terzi&quot; dikmez, &quot;uzun&quot; uzun bir kelime
+      değildir, dağ kocamandır ama &quot;dağ&quot; sadece üç harfli bir kelimedir, insan
+      sadece &quot;su&quot; diyerek suzuzluğunu gideremez ... </small></font></p>
+      <p><font face="Verdana"><small>Buraya kadar sabırla okumayı başaranların, düşünmesi
+      için bir kaç soru yazayım: </small></font><ol>
+        <li><font face="Verdana"><small>Televizyon kelimesinin Türkçe karşılığı nedir? </small></font></li>
+        <li><font face="Verdana"><small>&quot;Eski Türk Şiiri&quot; ne demektir? </small></font></li>
+        <li><font face="Verdana"><small>&quot;Bilgisayar&quot; gerçekten bilgi mi sayar? </small></font></li>
+        <li><font face="Verdana"><small>&quot;Çatma kurban olayım çehreni ...&quot; Türkçe'de
+          çehre çatılır mı? </small></font></li>
+        <li><font face="Verdana"><small>Sigara nasıl içilir? </small></font></li>
+        <li><font face="Verdana"><small>Teşekkür etmek yerine teşekkür yapsaydık ne
+          değişirdi? </small></font></li>
+        <li><font face="Verdana"><small>Cinsel organ ya da ilişkilerle ilgili kelimelerde ayıp
+          olan nedir? </small></font></li>
+        <li><font face="Verdana"><small>Bir insana sövmek onu niçin kızdırır? </small></font></li>
+        <li><font face="Verdana"><small>Bir insanın sadece yüzüne bakarak onun adı tahmin
+          edilebilir mi? </small></font></li>
+        <li><font face="Verdana"><small>Bir insanın huyu adına uygun olmak zorunda mıdır? </small></font></li>
+        <li><font face="Verdana"><small>Dede Korkut'un Boğaç Han hikayesinde, adların bir
+          başarıdan sonra ve o başarıyı hatırlatacak biçimde konduğu belirtilir. Bu
+          mantıklı mı? </small></font></li>
+        <li><font face="Verdana"><small>Adamın 3 çocuğu olmuştu. İlkine İlker, sonuncuya Soner
+          adını koymuştu. Ortancanın adı neydi? </small></font></li>
+      </ol>
+      <hr ALIGN="LEFT" WIDTH="100%">
+      <ol>
+        <li><font face="Verdana"><small>Bir kütüphanedeki kitapları fişleyen bir tanıdığıma,
+          &quot;kitapları fişlemek nedir?&quot; diye sorduğumda şu cevabı vermişti: &quot;El
+          mufeşfişune yufeşfişu feşafişehum li yezidu feşafişehum, la li yezidu
+          ilmehum.&quot; </small></font></li>
+        <li><font face="Verdana"><small>Chomolungma (umarım doğru yazmışımdır). </small></font></li>
+        <li><font face="Verdana"><small>Fatih Sultan Mehmet'in şöyle bir beyti vardır: </small></font><blockquote>
+            <p><font face="Verdana"><small>&quot;Bizimle saltanat lafın idermiş ol Karamani <br>
+            Huda fırsat verirse ger, kara yire karam anı.&quot; </small></font></p>
+          </blockquote>
+          <p><font face="Verdana"><small>O da tevriye yapmış, ama onun dediğini
+          gerçekleştirebilecek kudreti vardı ve gerçekleştirdi. </small></font></p>
+        </li>
+        <li><font face="Verdana"><small>Bu kelimelerin karşılıkları sırasıyla <i>öneri</i> ve
+          <i>tahmin</i> <u>değildir</u>. </small></font></li>
+        <li><font face="Verdana"><small><i>fictio</i> (L), a feigning, forming. </small></font></li>
+        <li><font face="Verdana"><small>Kızan. </small></font></li>
+      </ol>
+      <hr>
+      <form ACTION="http://nohut.com" method="POST">
+        <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+        onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+        NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+        size="1">
+          <option value="selcted">Bir Konu Seçin </option>
+          <option value="leylek.htm">Leylek Teorisi</option>
+          <option value="alice.htm">Reçel Paradoksu</option>
+          <option value="kola.htm">Kola Fiziği</option>
+          <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+          <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+          <option value="dictionary.htm">Sözlük okur musunuz?</option>
+          <option value="huck.htm">Adam gibi konuş</option>
+          <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+          <option value="cult.htm">Bana kültünü söyle</option>
+          <option value="illogical.htm">Illogical language</option>
+          <option value="prooftech.html">Kanıtlama teknikleri</option>
+          <option value="paradox.htm">Paradokslar üzerine</option>
+<option value="paradoks.htm">Paradokslar</option>
+          <option value="shakespeare.htm">Bir acayip tesadüf</option>
+          <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+          <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+          <option value="fallacies.htm">Vurgulama</option>
+          <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+          <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+          <option value="avni.htm">Fatih'ten gazeller</option>
+          <option value="fal.htm">Neyse halin, çıksın falın</option>
+          <option value="metafizik.htm">Metafizik</option>
+        </select></p>
+        </center></div>
+      </form>
+    </blockquote>
+    <blockquote>
+      <p align="center"><small><small><small><font face="Verdana">© 1999</font></small></small></small></p>
+    </blockquote>
+    <blockquote>
+    </blockquote>
+    </td>
+    <td width="109" height="412" bordercolor="#C0C0C0" bgcolor="#000000"></td>
+  </tr>
+</table>
+
+<table border="0" width="719" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><p align="center"><font color="#FFFFFF" face="Verdana"><strong><small><small><a
+    href="../../index-1.htm">FUAYE</a> | <a href="../../sphinx/index.htm">SFENKS</a></small> <small>|</small>
+    <small><a href="../index.htm">DIM</a> | <a href="../../mc/index.htm">MINERVA</a></small> <small>|
+    <a href="../../solomon/index.htm">SULEYMAN</a></small> <small>| <a href="mak/index.htm">ARCHIMEDES</a></small>
+    <small>| <a href="../../cafe/index.htm">KAFE</a></small> <small>| <a
+    href="../../mails/index.htm">MAIL</a></small> </small><font size="1">| <a
+    href="../../enigma/index.htm">ENİGMA</a> </font><small><small>| <a
+    href="../../lyrics/carmina.html">CARMINA</a></small> <small>| <a
+    href="../../lyrics/index.html">LYRICS</a></small> <small>| <a href="../../test.html">TEST</a>
+    | <a href="../../yeni.htm">YENİ</a></small></small></strong></font></td>
+  </tr>
+</table>
+
+<p><small><font face="MS Sans Serif"><small>© MucitDESIGN All rights reserved</small></font></small></p>
+</body>
+</html>

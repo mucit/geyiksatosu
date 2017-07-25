@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-9">
+   <META NAME="Author" CONTENT="Avnivs">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (Win95; I) [Netscape]">
+   <TITLE>Cevap135</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFCB78" LINK="#FFFF00" VLINK="#8080FF">
+
+
+<CENTER><H2>135</H2></CENTER>
+
+x oynayan kişi sayısı, y başlangıçta en az parası olan kişinin parası
+olsun. Oyunun kuralına göre her turda herkesin parası 1 lira azalıyor,
+öyleyse y aynı zamanda oyunun tur sayısıdır, yani, y sayıda oyun oynandığında
+en az parası olanın parası ve dolayısıyla oyun biter.
+
+<P>Başlangıçta kişiler ve paralar:
+
+<P><TABLE BORDER WIDTH="100%" >
+
+<TR>
+<TD>Kişiler:</TD>
+<TD>x (sonuncu)</TD>
+<TD>x-1</TD>
+<TD>x-2</TD>
+<TD>...</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>1</TD>
+</TR>
+
+<TR>
+<TD>Paralar:</TD>
+<TD>y</TD>
+<TD>y+1</TD>
+<TD>y+2</TD>
+<TD>...</TD>
+<TD>x+y-3</TD>
+<TD>x+y-2</TD>
+<TD>x+y-1</TD>
+</TR>
+</TABLE>
+
+<P>y sayıda tur sonra ortada xy kadar para toplanır. x. kişi bu parayı 1.
+kişiye aktarır ve son para durumu şöyle olur:
+
+<P><TABLE BORDER WIDTH="100%" >
+<TR>
+<TD>Kişiler:</TD>
+<TD>x (sonuncu)</TD>
+<TD>x-1</TD>
+<TD>x-2</TD>
+<TD>...</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>1</TD>
+</TR>
+
+<TR>
+<TD>Paralar:</TD>
+<TD>0</TD>
+<TD>1</TD>
+<TD>2</TD>
+<TD>...</TD>
+<TD>x-3</TD>
+<TD>x-2</TD>
+<TD>xy+x-1</TD>
+</TR>
+</TABLE>
+
+<P>Buna göre 1.nin parası 2.nin parasının 4 katı kadar olmalıdır.
+
+<P><DD>xy + x - 1 = 4(x - 2) yazılır ve buradan
+<P><DD><IMG SRC="../spix/carroll.gif" tppabs="http://www.avni.com/sphinx/spix/carroll.gif" ALT="carroll.gif">
+
+<P>ifadesinde tamsayı x ve y için çözüm aranırsa, x = 7 ve y = 2 bulunur.
+
+<P>Sonuç: Masada 7 kişi ve en az parası olanın 2 lirası vardı.
+
+<FORM METHOD="Get" ACTION="../sfenks1/s136.htm" tppabs="http://www.avni.com/sphinx/sfenks1/s136.htm" TARGET="sphinx2">
+<INPUT TYPE="submit"  VALUE="Sonraki">
+</FORM>
+
+</BODY>
+</HTML>

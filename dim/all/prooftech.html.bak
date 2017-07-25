@@ -1,0 +1,253 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<meta name="eflatun" content="eflatunweb">
+<style>
+<!--
+        A:link    {text-decoration: none; color: white; font-family: verdana;}
+		A:visited {text-decoration: none; color: white; font-family: verdana;}
+		A:active  {text-decoration: none; color: white; font-family: verdana;}
+		A:hover   {text-decoration: underline; color: white; font-family: verdana;}
+-->
+</style>
+<title>Kanıtlama Teknikleri</title>
+</head>
+
+<body>
+<bgcolor="blue">
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="84">
+  <tr>
+    <td width="719" bgcolor="#000000" bordercolor="#008080" bordercolorlight="#008080"
+    bordercolordark="#008080" height="80"><p align="center"
+    style="margin-top: 1px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px"><font
+    color="#FFFFFF" face="Verdana"><u><big><strong>D I M</strong></big></u></font></p>
+    <form ACTION="http://nohut.com" method="POST">
+      <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+      onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+      NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+      size="1">
+        <option value="selcted">Bir Konu Seçin </option>
+        <option value="leylek.htm">Leylek Teorisi</option>
+        <option value="alice.htm">Reçel Paradoksu</option>
+        <option value="kola.htm">Kola Fiziği</option>
+        <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+        <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+        <option value="dictionary.htm">Sözlük okur musunuz?</option>
+        <option value="huck.htm">Adam gibi konuş</option>
+        <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+        <option value="cult.htm">Bana kültünü söyle</option>
+        <option value="illogical.htm">Illogical language</option>
+        <option value="prooftech.html">Kanıtlama teknikleri</option>
+        <option value="paradox.htm">Paradokslar üzerine</option>
+        <option value="paradoks.htm">Paradokslar</option>
+        <option value="shakespeare.htm">Bir acayip tesadüf</option>
+        <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+        <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+        <option value="fallacies.htm">Vurgulama</option>
+        <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+        <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+        <option value="avni.htm">Fatih'ten gazeller</option>
+        <option value="fal.htm">Neyse halin, çıksın falın</option>
+        <option value="metafizik.htm">Metafizik</option>
+      </select></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="416">
+  <tr>
+    <td width="143" height="412" bgcolor="#000000" valign="top"><p align="center"><strong><font
+    color="#FFFFFF" face="Verdana"><br>
+    <a href="../../index-1.htm"><small>FUAYE</small></a><br>
+    <a href="../../sphinx/index.htm"><small>SFENKS</small></a><br>
+    <a href="../index.htm"><small>DIM</small></a><br>
+    <a href="../../mc/index.htm"><small>MINERVA</small></a><br>
+    <a href="../../solomon/index.htm"><small>SULEYMAN</small></a><br>
+    <a href="../../mak/index.htm"><small>ARCHIMEDES</small></a><br>
+    <a href="../../cafe/index.htm"><small>KAFE ENTROPİ</small></a><br>
+    <a href="../../mails/index.htm"><small>MAIL</small></a><br>
+    </font><font face="Verdana" size="2" color="#FFFFFF"><a href="../../enigma/index.htm">ENİGMA</a><br>
+    </font><font color="#FFFFFF" face="Verdana"><a href="../../lyrics/carmina.html"><small>CARMINA</small></a><br>
+    <a href="../../lyrics/index.html"><small>LYRICS</small></a><br>
+    <small><a href="../../test.html">TEST</a><br>
+    <a href="../../yeni.htm">YENİ</a></small><br>
+    <br>
+    </font></strong></td>
+    <td width="7" height="12" bordercolor="#C0C0C0" bgcolor="#800000" valign="top"></td>
+    <td width="457" height="412" bordercolor="#C0C0C0" bgcolor="#C0C0C0" valign="top"><blockquote>
+      <p>&nbsp;</p>
+      <h2><u><font face="Verdana"><small>Kanıtlama Teknikleri</small></font></u></h2>
+      <p><font face="Verdana"><small>Bir teoriniz var ve bunu kanıtlamak istiyorsunuz. Peki,
+      kanıtlama yöntemlerini biliyor musunuz? Bu yöntemlerden bir kısmını size
+      aktaracağım. Konumuza ve ortamın durumuna göre bu yöntemlerden biri veya bir kaçı
+      işinize yarayabilir. </small></font></p>
+      <p><font face="Verdana"><small><b>Kanıtlama Yöntemi </b>#1 - İndüksiyonla kanıtlama </small></font></p>
+      <p><font face="Verdana"><small>&quot;Bu teoremi size indüksiyonla
+      kanıtlayacağım,&quot; diye söze başlıyorsunuz. Muhatabınız sizin matematiksel
+      tümevarım yöntemini kullanacağınızı sanıyor. Aşağıdaki adımları izliyorsunuz:
+      </small></font><ol>
+        <li><font face="Verdana"><small>Değiştirme oranı şöyle 1 e 100 gibi olan büyük bir
+          transformatör edinerek onu iyice kamufle ediyorsunuz. </small></font></li>
+        <li><font face="Verdana"><small>Teoreminize inanmayan birini buluyorsunuz. </small></font></li>
+        <li><font face="Verdana"><small>Şahsın transformatörün yüksek voltaj tarafındaki
+          terminalleri sıkıca tutmasını sağlıyorsunuz. </small></font></li>
+        <li><font face="Verdana"><small>Alçak voltaj tarafından 220 V AA uyguluyorsunuz. Bu
+          durumda öbür uçta 22,000 V gibi bir gerilim indüklenecektir. </small></font></li>
+        <li><font face="Verdana"><small>Kendisine teorem kanıtlanacak şahıs kanıta ikna oluncaya
+          kadar 4 nolu adımı tekrarlıyorsunuz. </small></font></li>
+      </ol>
+      <b><p><font face="Verdana"><small>Kanıtlama Yöntemi</b> #2 - Çürüterek kanıtlama </small></font><ol>
+        <li><font face="Verdana"><small>Teoreminizi belirtin. </small></font></li>
+        <li><font face="Verdana"><small>Birinin size itiraz etmesini bekleyin. </small></font></li>
+        <li><font face="Verdana"><small>Onun itirazını çürütün. Size karşı olan birinin
+          itirazının çürütülmesi haklılığınızı kanıtlayacaktır. </small></font></li>
+      </ol>
+      <b><p><font face="Verdana"><small>Kanıtlama Yöntemi</b> #3 - Şut Kanıtı </small></font><ol>
+        <li><font face="Verdana"><small>Emriniz altındakilerin hepsini toplantıya çağırın. </small></font></li>
+        <li><font face="Verdana"><small>Teorinizi belirtin. </small></font></li>
+        <li><font face="Verdana"><small>Size katılmayanları şutlayın. </small></font></li>
+      </ol>
+      <b><p><font face="Verdana"><small>Kanıtlama Yöntemi</b> #4 - Ünlü su kanıtı </small></font><ol>
+        <li><font face="Verdana"><small>Teoreminizi belirtin. </small></font></li>
+        <li><font face="Verdana"><small>Birinin size itiraz etmesini bekleyin. </small></font></li>
+        <li><font face="Verdana"><small>Onu boğun. </small></font></li>
+      </ol>
+      <b><p><font face="Verdana"><small>Kanıtlama Yöntemi</b> #5 - Aptal kanıt </small></font><ol>
+        <li><font face="Verdana"><small>Teoreminizi belirtin. </small></font></li>
+        <li><font face="Verdana"><small>En silik resimler ve figürlerle, en okunaksız yazılarla
+          ve en düzensiz anlatımla açıklayın. </small></font></li>
+        <li><font face="Verdana"><small>Anlamıyanlara manalı manalı bakın. </small></font></li>
+      </ol>
+      <b><p><font face="Verdana"><small>Kanıtlama Yöntemi</b> #6 - Çocuk kanıt </small></font><ol>
+        <li><font face="Verdana"><small>Teoreminizi belirtin. </small></font></li>
+        <li><font face="Verdana"><small>Onu bir epoksiyle kaplayın ve elips haline getirin. </small></font></li>
+        <li><font face="Verdana"><small>Sonra onu diğer kanıtlarla birlikte bir kavanoza koyun.
+          (Kavanoz kapağının ısıtılarak iyice sıkışması sağlanmalıdır.) </small></font></li>
+        <li><font face="Verdana"><small>Kanıt isteyen şahsa kavanozu vererek onu açmasını
+          söyleyin. </small></font></li>
+      </ol>
+      <b><p><font face="Verdana"><small>Kanıtlama Yöntemi</b> #7 - Tavşan kanıtı </small></font><ol>
+        <li><font face="Verdana"><small>Teoremlerinizi en seri biçimde aktarın. </small></font></li>
+        <li><font face="Verdana"><small>Muhatabınızın daha ne olduğunu anlamasına fırsat
+          vermeden sıvışın. </small></font></li>
+      </ol>
+      <b><p><font face="Verdana"><small>Kanıtlama Yöntemi</b> #8 - Aptal kanıt </small></font><ol>
+        <li><font face="Verdana"><small>Teoreminizi belirtin. </small></font></li>
+        <li><font face="Verdana"><small>Meslektaşlarınızı yorum yapmaya çağırın. </small></font></li>
+        <li><font face="Verdana"><small>Size katılmayanlara yüksek sesle, &quot;aptallar, bunu
+          bile anlayamıyorsunuz!&quot; diye bağırın. </small></font></li>
+      </ol>
+      <p><font face="Verdana"><small><i>The following techniques are written by Armen H.
+      Zemanian, published in The Physics Teacher, May 1994.</i> </small></font><dl>
+        <dt><font face="Verdana"><small><b>Kanıtlama Yöntemi</b> #9: Havalı İfadelerle
+          Kanıtlama </small></font></dt>
+        <dd><font face="Verdana"><small>&quot;Açıkça görülebilir ki...,&quot; &quot;kolayca
+          kanıtlanabilir ki ...,&quot; &quot;bir aptal bile açıkça görebilir ki...,&quot; gibi
+          havalı ifadeler kullanın. </small></font></dd>
+        <dt><font face="Verdana"><small><b>Kanıtlama Yöntemi</b> #10: Ayartarak kanıtlama </small></font></dt>
+        <dd><font face="Verdana"><small>&quot;Buna inanmayı kabul edersen, final notun daha iyi
+          olabilir.&quot; </small></font></dd>
+        <dt><font face="Verdana"><small><b>Kanıtlama Yöntemi</b> #11: Korkutarak kanıtlama </small></font></dt>
+        <dd><font face="Verdana"><small>Bu dersten geçmek istiyorsan, buna inansan iyi olur.&quot; </small></font></dd>
+        <dt><font face="Verdana"><small><b>Kanıtlama Yöntemi</b> #12: Lafını keserek kanıtlama </small></font></dt>
+        <dd><font face="Verdana"><small>Muarızınız itiraz etmekten vazgeçinceye kadar lafını
+          kesmeye devam edin. </small></font></dd>
+        <dt><font face="Verdana"><small><b>Kanıtlama Yöntemi</b> #13: Yanlış bilgi vererek
+          kanıtlama </small></font></dt>
+        <dd><font face="Verdana"><small>Daha ilk sınıflarda yanlış bir kural öğreterek ilerki
+          sınıflarda her şeyi kanıtlayabilirsiniz. </small></font></dd>
+        <dd><font face="Verdana"><small>Örnek olarak, &quot;2'nin büyük değerleri için 2, 3 e
+          eşittir,&quot; gibi bir fikri limit konusunda verirseniz, sonraki sınıflarda her sonuca
+          varabilirsiniz. </small></font></dd>
+        <dt><font face="Verdana"><small><b>Kanıtlama Yöntemi </b>#14: Bulanık kanıtlama </small></font></dt>
+        <dd><font face="Verdana"><small>Yüzlerce lemma yardımıyla kanıta gidilir. </small></font></dd>
+        <dd><font face="Verdana"><small>Ne kadar çok lemmanız olursa o kadar iyidir. </small></font></dd>
+        <dt><font face="Verdana"><small><b>Kanıtlama Yöntemi </b>#15: Kafa karıştırarak
+          kanıtlama </small></font></dt>
+        <dd><font face="Verdana"><small>Bu yöntem, bulanık kanıtın daha rafine halidir. </small></font></dd>
+        <dd><font face="Verdana"><small>Lemmalar listesi dairesel mantığa yol açacak biçimde
+          düzenlenir. </small></font></dd>
+        <dt><font face="Verdana"><small><b>Kanıtlama Yöntemi</b> #16: Tüketerek kanıtlama </small></font></dt>
+        <dd><font face="Verdana"><small>Bu da bir tür indüksiyondur, ancak ilk özel durumdan
+          genel duruma geçmek yerine, ikinci durum kanıtlanır, sonra üçüncü, sonra
+          dördüncü ve böylece devam edilir. Herkes uyuduğunda kanıtlama tamamdır. </small></font></dd>
+      </dl>
+      <hr>
+      <p><font face="Verdana"><small>Bu teknikleri öğrendikten sonra, şimdi bütün atların
+      aynı renkte olduklarını kanıtlayalım: </small></font></p>
+      <p><font face="Verdana"><small><b>Teorem</b>: Bütün atlar aynı renktedir. </small></font></p>
+      <p><font face="Verdana"><small><b>Kanıt</b>: Tümevarım yöntemiyle kanıtlanacaktır. </small></font><ol>
+        <li><font face="Verdana"><small>N=1 için bir tek at varsa, tabii ki onun rengi aynı
+          olacaktır. </small></font></li>
+        <li><font face="Verdana"><small>Şimdi N sayıda atın aynı renkte olduğunu varsayarak,
+          N+1 sayıda atın da aynı renkte olduğunu göstereceğiz. N+1 sayıda attan birini
+          dışarı alalım, geriye N sayıda at kalır. N sayıda atın aynı renkte olduğunu
+          biliyoruz. Şimdi bu atı tekrar gruba katıp başka bir at çıkaralım. Yine N sayıda
+          at kalır. Bu işlemi k=1 den k=N+1 e kadar sürdürürsek, bütün atların aynı renkte
+          olduğu sonucuna varırız. QED. </small></font></li>
+      </ol>
+      <hr>
+      <form ACTION="http://nohut.com" method="POST">
+        <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+        onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+        NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+        size="1">
+          <option value="selcted">Bir Konu Seçin </option>
+          <option value="leylek.htm">Leylek Teorisi</option>
+          <option value="alice.htm">Reçel Paradoksu</option>
+          <option value="kola.htm">Kola Fiziği</option>
+          <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+          <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+          <option value="dictionary.htm">Sözlük okur musunuz?</option>
+          <option value="huck.htm">Adam gibi konuş</option>
+          <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+          <option value="cult.htm">Bana kültünü söyle</option>
+          <option value="illogical.htm">Illogical language</option>
+          <option value="prooftech.html">Kanıtlama teknikleri</option>
+          <option value="paradox.htm">Paradokslar üzerine</option>
+          <option value="paradoks.htm">Paradokslar</option>
+          <option value="shakespeare.htm">Bir acayip tesadüf</option>
+          <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+          <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+          <option value="fallacies.htm">Vurgulama</option>
+          <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+          <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+          <option value="avni.htm">Fatih'ten gazeller</option>
+          <option value="fal.htm">Neyse halin, çıksın falın</option>
+          <option value="metafizik.htm">Metafizik</option>
+        </select></p>
+        </center></div>
+      </form>
+    </blockquote>
+    <blockquote>
+      <p align="center"><small><small><small><font face="Verdana">© 1999</font></small></small></small></p>
+    </blockquote>
+    <blockquote>
+    </blockquote>
+    </td>
+    <td width="109" height="412" bordercolor="#C0C0C0" bgcolor="#000000"></td>
+  </tr>
+</table>
+
+<table border="0" width="719" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><p align="center"><font color="#FFFFFF" face="Verdana"><strong><small><small><a
+    href="../../index-1.htm">FUAYE</a> | <a href="../../sphinx/index.htm">SFENKS</a></small> <small>|</small>
+    <small><a href="../index.htm">DIM</a> | <a href="../../mc/index.htm">MINERVA</a></small> <small>|
+    <a href="../../solomon/index.htm">SULEYMAN</a></small> <small>| <a href="mak/index.htm">ARCHIMEDES</a></small>
+    <small>| <a href="../../cafe/index.htm">KAFE</a></small> <small>| <a
+    href="../../mails/index.htm">MAIL</a></small> </small><font size="1">| <a
+    href="../../enigma/index.htm">ENİGMA</a> </font><small><small>| <a
+    href="../../lyrics/carmina.html">CARMINA</a></small> <small>| <a
+    href="../../lyrics/index.html">LYRICS</a></small> <small>| <a href="../../test.html">TEST</a>
+    | <a href="../../yeni.htm">YENİ</a></small></small></strong></font></td>
+  </tr>
+</table>
+
+<p><small><font face="MS Sans Serif"><small>© MucitDESIGN All rights reserved</small></font></small></p>
+</body>
+</html>

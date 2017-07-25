@@ -1,0 +1,205 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<meta name="eflatun" content="eflatunweb">
+<style>
+<!--
+        A:link    {text-decoration: none; color: white; font-family: verdana;}
+		A:visited {text-decoration: none; color: white; font-family: verdana;}
+		A:active  {text-decoration: none; color: white; font-family: verdana;}
+		A:hover   {text-decoration: underline; color: white; font-family: verdana;}
+-->
+</style>
+<title>Vurgulama</title>
+</head>
+
+<body>
+<bgcolor="blue">
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="84">
+  <tr>
+    <td width="719" bgcolor="#000000" bordercolor="#008080" bordercolorlight="#008080"
+    bordercolordark="#008080" height="80"><p align="center"
+    style="margin-top: 1px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px"><font
+    color="#FFFFFF" face="Verdana"><u><big><strong>D I M</strong></big></u></font></p>
+    <form ACTION="http://nohut.com" method="POST">
+      <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+      onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+      NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+      size="1">
+        <option value="selcted">Bir Konu Seçin </option>
+        <option value="leylek.htm">Leylek Teorisi</option>
+        <option value="alice.htm">Reçel Paradoksu</option>
+        <option value="kola.htm">Kola Fiziği</option>
+        <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+        <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+        <option value="dictionary.htm">Sözlük okur musunuz?</option>
+        <option value="huck.htm">Adam gibi konuş</option>
+        <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+        <option value="cult.htm">Bana kültünü söyle</option>
+        <option value="illogical.htm">Illogical language</option>
+        <option value="prooftech.html">Kanıtlama teknikleri</option>
+        <option value="paradox.htm">Paradokslar üzerine</option>
+<option value="paradoks.htm">Paradokslar</option>
+        <option value="shakespeare.htm">Bir acayip tesadüf</option>
+        <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+        <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+        <option value="fallacies.htm">Vurgulama</option>
+        <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+        <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+        <option value="avni.htm">Fatih'ten gazeller</option>
+        <option value="fal.htm">Neyse halin, çıksın falın</option>
+        <option value="metafizik.htm">Metafizik</option>
+      </select></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="416">
+  <tr>
+    <td width="143" height="412" bgcolor="#000000" valign="top"><p align="center"><strong><font
+    color="#FFFFFF" face="Verdana"><br>
+    <a href="../../index-1.htm"><small>FUAYE</small></a><br>
+    <a href="../../sphinx/index.htm"><small>SFENKS</small></a><br>
+    <a href="../index.htm"><small>DIM</small></a><br>
+    <a href="../../mc/index.htm"><small>MINERVA</small></a><br>
+    <a href="../../solomon/index.htm"><small>SULEYMAN</small></a><br>
+    <a href="../../mak/index.htm"><small>ARCHIMEDES</small></a><br>
+    <a href="../../cafe/index.htm"><small>KAFE ENTROPİ</small></a><br>
+    <a href="../../mails/index.htm"><small>MAIL</small></a><br>
+    </font><font face="Verdana" size="2" color="#FFFFFF"><a href="../../enigma/index.htm">ENİGMA</a><br>
+    </font><font color="#FFFFFF" face="Verdana"><a href="../../lyrics/carmina.html"><small>CARMINA</small></a><br>
+    <a href="../../lyrics/index.html"><small>LYRICS</small></a><br>
+    <small><a href="../../test.html">TEST</a><br>
+    <a href="../../yeni.htm">YENİ</a></small><br>
+    <br>
+    </font></strong></td>
+    <td width="7" height="12" bordercolor="#C0C0C0" bgcolor="#800000" valign="top"></td>
+    <td width="457" height="412" bordercolor="#C0C0C0" bgcolor="#C0C0C0" valign="top"><blockquote>
+      <p>&nbsp;</p>
+      <h2><u><font face="Verdana"><small>Vurgulama</small></font></u></h2>
+      <p><font face="Verdana"><small>Bir cümledeki vurgunun yeri değişirse anlam bundan
+      nasıl etkilenir? </small></font></p>
+      <p><font face="Verdana"><small><i><b>Biz dostlarımızın kötü yanlarından söz
+      etmeyiz.</b></i> </small></font><ul>
+        <li><font face="Verdana"><small>Herhangi bir bölüm vurgulanmamışsa, veya sadece
+          &quot;kötü yanlarından&quot; kısmı vurgulanmışsa yanlış anlamak için bir sebep
+          yoktur. </small></font></li>
+        <li><font face="Verdana"><small>Vurgu &quot;biz&quot;deyse, biz söz etmeyiz, ama siz ya da
+          onlar söz edersiniz. Konunun gelişine göre suçlama anlamı taşıyabilir. </small></font></li>
+        <li><font face="Verdana"><small>Vurgu &quot;dostlarımızın&quot;daysa,
+          tanımadıklarımızın veya düşmanlarımızın kötü yanlarından söz ederiz demek
+          olabilir. </small></font></li>
+        <li><font face="Verdana"><small>Vurgu &quot;söz etmeyiz,&quot;deyse, ama ima ya da işmar
+          edebiliriz gibi bir anlama gelebilir. </small></font></li>
+      </ul>
+      <p><font face="Verdana"><small>Konteksti ihmal ederek yapılan alıntılar da hatalı
+      anlamalara ya da kullananımlara yol açabilir. </small></font></p>
+      <p><font face="Verdana"><small>Şu cümleleri duyunca aklınıza ilk olarak ne geliyor?
+      (Dikkat! Şu an böyle bir şeye hazırlıklı olduğunuz için yanlış
+      anlamayabilirsiniz, ama hayat sizi genellikle hazırlıksız yakalar.) </small></font></p>
+      <p><font face="Verdana"><small>&quot;- Saçlarını aylardan beri kestirmiyor.&quot; <br>
+      (Muhtemel tavırlar: &quot;O zaten pasaklının tekidir.&quot; &quot;O bir asidir.&quot; <br>
+      Kontekst: Saçlarını Hamlet'teki rolü için uzatıyor, rolü bitince berbere
+      uğrayacakmış.) </small></font></p>
+      <p><font face="Verdana"><small>&quot;- Ben konuşurken yüzüme boş boş
+      bakıyordu.&quot; <br>
+      (Muhtemel tavır: &quot;O zaten salağın tekidir.&quot; <br>
+      Kontekst: Demek henüz çarpmanın şiddetinden kurtulamadı, kendine gelemedi.) </small></font></p>
+      <p><font face="Verdana"><small>&quot;- Tabi oğlum. Sana yaş gününde yeni bir spor
+      araba hediye edeceğim.&quot; <br>
+      (Muhtemel tavır: &quot;Denizde kum onda para. Görgüsüz işte, n'olucak.&quot; <br>
+      Kontekst: &quot;Ayrıca kız kardeşine mink kürkler, annene Fransa'da bir villa ve
+      dedene Boğaziçi Köprüsü'nü satın alacağım.&quot;) </small></font></p>
+      <p><font face="Verdana"><small>Tabloid Gazetelerin başlıkları da ayrı bir alemdir.
+      Yanlış anlamanız için ellerinden geleni yaparlar: </small></font></p>
+      <p><font face="Verdana"><small>İşte birinden bir manşet: Kocam artık kaldıramıyor,
+      hakim bey! <br>
+      Manşetin hemen altında daha küçük puntoyla devam ediyor: Bu pahalılıkta geçim
+      yükü belimizi büktü. </small></font></p>
+      <p><font face="Verdana"><small>Bir de ilan vardı: Süper bilgisayar $800. Devamında
+      işlemci, main board, hdd, bellek spesifikasyonları vardı. Tam 800 dolar için çok ucuz
+      diye düşünürken, bir yerlerde küçük puntoyla yazılmış bir not gözüme çarptı:
+      Klavye, monitör, floppy drive ve cd sürücüsü dahil değildir. </small></font></p>
+      <p><font face="Verdana"><small>Şimdi bir alıştırma: Sizce şu ifadede bir sorun var
+      mı? </small></font></p>
+      <p><font face="Verdana"><small><b><i>Çalışmaz ve diplomanı alamazsan abin gibi
+      serserinin teki olursun. Hayatının geri kalanını bir serseri olarak mı geçirmek
+      istiyorsun? </i></b></small></font></p>
+      <p><font face="Verdana"><small>Burada en az iki hata var: </small></font><ol>
+        <li><font face="Verdana"><small>Dolaylı sonuçlara başvurmak: Çalışmayıp bir diploma
+          alamamak ve serseri olmak arasında çok uzun ve bir çok çatalı olan bir yol var.
+          İkisi arasında doğrudan ve kaçınılmaz bir nedensel bağ da yok. </small></font></li>
+        <li><font face="Verdana"><small>Bu ifadenin bir de yanlış dilemma kısmı var, çünkü
+          önünüze iki seçenek bırakılmış: Ya çalışır bir diploma alırsın, ya da
+          serseri olursun. Başka seçenekler yok mu? Örneğin çalışıp bir diploma aldığı
+          halde serseri de olabilir, veya ikisi de olmayabilir. </small></font></li>
+      </ol>
+      <hr>
+      <p><font face="Verdana"><small>Medyada gözünüze çarpan yanlışlar, yanlış anlamalar
+      ve yanlış anlamaya sebebiyet verecek şekilde ifadeler olursa, tam metin ile kendi
+      açıklamanızı bana gönderin. </small></font></p>
+      <hr>
+      <form ACTION="http://nohut.com" method="POST">
+        <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+        onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+        NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+        size="1">
+          <option value="selcted">Bir Konu Seçin </option>
+          <option value="leylek.htm">Leylek Teorisi</option>
+          <option value="alice.htm">Reçel Paradoksu</option>
+          <option value="kola.htm">Kola Fiziği</option>
+          <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+          <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+          <option value="dictionary.htm">Sözlük okur musunuz?</option>
+          <option value="huck.htm">Adam gibi konuş</option>
+          <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+          <option value="cult.htm">Bana kültünü söyle</option>
+          <option value="illogical.htm">Illogical language</option>
+          <option value="prooftech.html">Kanıtlama teknikleri</option>
+          <option value="paradox.htm">Paradokslar üzerine</option>
+<option value="paradoks.htm">Paradokslar</option>
+          <option value="shakespeare.htm">Bir acayip tesadüf</option>
+          <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+          <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+          <option value="fallacies.htm">Vurgulama</option>
+          <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+          <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+          <option value="avni.htm">Fatih'ten gazeller</option>
+          <option value="fal.htm">Neyse halin, çıksın falın</option>
+          <option value="metafizik.htm">Metafizik</option>
+        </select></p>
+        </center></div>
+      </form>
+    </blockquote>
+    <blockquote>
+      <p align="center"><small><small><small><font face="Verdana">© 1999</font></small></small></small></p>
+    </blockquote>
+    <blockquote>
+    </blockquote>
+    </td>
+    <td width="109" height="412" bordercolor="#C0C0C0" bgcolor="#000000"></td>
+  </tr>
+</table>
+
+<table border="0" width="719" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><p align="center"><font color="#FFFFFF" face="Verdana"><strong><small><small><a
+    href="../../index-1.htm">FUAYE</a> | <a href="../../sphinx/index.htm">SFENKS</a></small> <small>|</small>
+    <small><a href="../index.htm">DIM</a> | <a href="../../mc/index.htm">MINERVA</a></small> <small>|
+    <a href="../../solomon/index.htm">SULEYMAN</a></small> <small>| <a href="mak/index.htm">ARCHIMEDES</a></small>
+    <small>| <a href="../../cafe/index.htm">KAFE</a></small> <small>| <a
+    href="../../mails/index.htm">MAIL</a></small> </small><font size="1">| <a
+    href="../../enigma/index.htm">ENİGMA</a> </font><small><small>| <a
+    href="../../lyrics/carmina.html">CARMINA</a></small> <small>| <a
+    href="../../lyrics/index.html">LYRICS</a></small> <small>| <a href="../../test.html">TEST</a>
+    | <a href="../../yeni.htm">YENİ</a></small></small></strong></font></td>
+  </tr>
+</table>
+
+<p><small><font face="MS Sans Serif"><small>© MucitDESIGN All rights reserved</small></font></small></p>
+</body>
+</html>

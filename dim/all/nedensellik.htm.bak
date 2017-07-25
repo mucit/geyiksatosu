@@ -1,0 +1,222 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<meta name="eflatun" content="eflatunweb">
+<style>
+<!--
+        A:link    {text-decoration: none; color: white; font-family: verdana;}
+		A:visited {text-decoration: none; color: white; font-family: verdana;}
+		A:active  {text-decoration: none; color: white; font-family: verdana;}
+		A:hover   {text-decoration: underline; color: white; font-family: verdana;}
+-->
+</style>
+<title>Nedensellik ve korelasyon</title>
+</head>
+
+<body>
+<bgcolor="blue">
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="84">
+  <tr>
+    <td width="719" bgcolor="#000000" bordercolor="#008080" bordercolorlight="#008080"
+    bordercolordark="#008080" height="80"><p align="center"
+    style="margin-top: 1px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px"><font
+    color="#FFFFFF" face="Verdana"><u><big><strong>D I M</strong></big></u></font></p>
+    <form ACTION="http://nohut.com" method="POST">
+      <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+      onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+      NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+      size="1">
+        <option value="selcted">Bir Konu Seçin </option>
+        <option value="leylek.htm">Leylek Teorisi</option>
+        <option value="alice.htm">Reçel Paradoksu</option>
+        <option value="kola.htm">Kola Fiziği</option>
+        <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+        <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+        <option value="dictionary.htm">Sözlük okur musunuz?</option>
+        <option value="huck.htm">Adam gibi konuş</option>
+        <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+        <option value="cult.htm">Bana kültünü söyle</option>
+        <option value="illogical.htm">Illogical language</option>
+        <option value="prooftech.html">Kanıtlama teknikleri</option>
+        <option value="paradox.htm">Paradokslar üzerine</option>
+<option value="paradoks.htm">Paradokslar</option>
+        <option value="shakespeare.htm">Bir acayip tesadüf</option>
+        <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+        <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+        <option value="fallacies.htm">Vurgulama</option>
+        <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+        <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+        <option value="avni.htm">Fatih'ten gazeller</option>
+        <option value="fal.htm">Neyse halin, çıksın falın</option>
+        <option value="metafizik.htm">Metafizik</option>
+      </select></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="416">
+  <tr>
+    <td width="143" height="412" bgcolor="#000000" valign="top"><p align="center"><strong><font
+    color="#FFFFFF" face="Verdana"><br>
+    <a href="../../index-1.htm"><small>FUAYE</small></a><br>
+    <a href="../../sphinx/index.htm"><small>SFENKS</small></a><br>
+    <a href="../index.htm"><small>DIM</small></a><br>
+    <a href="../../mc/index.htm"><small>MINERVA</small></a><br>
+    <a href="../../solomon/index.htm"><small>SULEYMAN</small></a><br>
+    <a href="../../mak/index.htm"><small>ARCHIMEDES</small></a><br>
+    <a href="../../cafe/index.htm"><small>KAFE ENTROPİ</small></a><br>
+    <a href="../../mails/index.htm"><small>MAIL</small></a><br>
+    </font><font face="Verdana" size="2" color="#FFFFFF"><a href="../../enigma/index.htm">ENİGMA</a><br>
+    </font><font color="#FFFFFF" face="Verdana"><a href="../../lyrics/carmina.html"><small>CARMINA</small></a><br>
+    <a href="../../lyrics/index.html"><small>LYRICS</small></a><br>
+    <small><a href="../../test.html">TEST</a><br>
+    <a href="../../yeni.htm">YENİ</a></small><br>
+    <br>
+    </font></strong></td>
+    <td width="7" height="12" bordercolor="#C0C0C0" bgcolor="#800000" valign="top"></td>
+    <td width="457" height="412" bordercolor="#C0C0C0" bgcolor="#C0C0C0" valign="top"><blockquote>
+      <p>&nbsp;</p>
+      <h2><u><small><font face="Verdana">Nedensellik ve korelasyon</font></small></u></h2>
+      <p><small><font face="Verdana">Nedensellik ve korelasyon birbirlerine çok benzer ve ikisi
+      birbirlerine kolayca karıştırılabilir. Bu karıştırmadan çıkarı olanlar bunu sık
+      sık yapar. Bu yazıda <i>numarasız gözlük</i><sup>1</sup> ilkesi çerçevesinde bu iki
+      kavrama açıklık getireceğini umduğum üç örneği inceleyeceğim. </font></small></p>
+      <p><small><font face="Verdana">Aşağıdaki bulgular araştırmalarla desteklenmiştir: </font></small><ol>
+        <li><small><font face="Verdana">Uzun bacaklı çocuklar okumayı daha kısa sürede
+          söküyorlar. </font></small></li>
+        <li><small><font face="Verdana">Boşanma oranlarının yüksek olduğu ülkelerde ölüm
+          oranları düşüktür. </font></small></li>
+        <li><small><font face="Verdana">İçme sularına flor koyan ülkelerde kanser oranları
+          yüksektir. </font></small></li>
+      </ol>
+      <p><small><font face="Verdana">Nedensellik ve korelasyon arasındaki farkı
+      bilmiyorsanız, bu sonuçlara bakınca, çocukların bacaklarının çeke çeke
+      uzatılmasını, muzır neşriyata gaz verilmesini ve içme sularına flor konmasına
+      hayır kampanyalarının düzenlenmesini gerekli göreceksiniz. </font></small></p>
+      <p><small><font face="Verdana">Fakat işin aslı başka. Şimdi bir bakalım: </font></small><ol>
+        <li><small><font face="Verdana">Verilen bilgiden çocukların bacak uzunluklarının
+          ölçüldüğü ve buna bağlı olarak okumayı öğrenme hızlarının
+          karşılaştırıldığı anlaşılıyor. Peki, çocukların yaşlarından söz ediliyor
+          mu? Uzun bacaklı çocukların genellikle kısa bacaklılara göre yaşça daha büyük
+          olduklarını göz önüne alırsak buradaki korelasyonun nedenini anlarız. Yani, uzun
+          bacaklı çocuklar sadece uzun bacaklı olduklarından değil, onların yaşları da
+          büyük olduğundan okumayı daha kısa zamanda öğreniyorlar. Böylece uzun bacaklı
+          olmakla öğrenme hızı arasında bir korelasyonun bulunduğunu fakat bu korelasyonun
+          nedensellik olmadığını anlıyoruz. </font></small></li>
+        <li><small><font face="Verdana">Boşanma oranlarının yüksekliğiyle ölüm oranlarının
+          düşüklüğü arasında nasıl bir nedensel bağ kurulabilir? Boşanma yaşlarının da
+          istatistiği verilirse nedenselliği kurmamız mümkündür. Çünkü, mesela,
+          boşanmanın genellikle 20-30 yaş arasında yaygın olduğu da verilirse, boşanma oranı
+          yüksek olan bir bölgenin genç ve orta yaş nüfusunun oranının da yüksek olduğunu
+          anlarız. Genç nüfüs oranın yüksek olduğu bir yerde ölüm oranının düşük
+          olması da doğaldır. O halde asıl nedensellik genç nüfus oranıyla düşük ölüm
+          oranı arasındadır. </font></small></li>
+        <li><small><font face="Verdana">İçme sularına flor koyan bir ülke zengin bir ülkedir,
+          gariban ülkeler klor koyabilir. Zengin ülkelerde ortalama ömür de ötekilere göre
+          daha uzundur. Bu da o ülkelerdeki yaşlı insanların tüm nüfusa oranının sularına
+          klor koyan fakir ülkelerdekine göre büyük olmasını gerektirir. Araştırmalar
+          göstermiştir ki yaş ilerledikçe kansere yakalanma riski artar. Öyleyse yaşlı
+          nüfusun oranı ile kanser oranı arasında nedensel bir bağ bulunur, ancak flor
+          kullanımıyla kanser arasında nedensel bir ilişki kurmak için sadece bu bilgi yeterli
+          değildir. </font></small></li>
+      </ol>
+      <p><small><font face="Verdana">Konuyla ilgili olarak, ne zaman nerede okuduğumu
+      hatırlayamadığım, dolayısıyla somut data bakımından fakir bir hikayem var: </font></small></p>
+      <p><small><font face="Verdana">Kabilenin birinde bit-pire türünden bir parazit çok
+      makbulmüş, onları bulunca kendi üstlerine koyarlarmış; çünkü kabile halkı
+      geçmiş tecrübeleriyle biliyorlarmış ki ateşli bir hastalığa yakalandıklarında o
+      parazitler vücutlarında bulunmuyormuş. Onlar da bu parazitlerin vücutlarında
+      bulunmasını sağlayarak o ateşli hastalıktan korunmayı amaçlıyorlarmış. </font></small></p>
+      <p><small><font face="Verdana">Kabilede yapılan araştırmalar şunu göstermiştir:
+      Parazitler vücüt sıcaklığı belli bir değerin üstüne çıktığında
+      yaşayamıyorlarmış, bu nedenle de vucüttan kaçıyorlarmış. Ayrıca o ateşli
+      hastalığın nedeni de onlarmış. Bunu bilmeyen kabile halkı hep o parazitler
+      kendilerini terkettikleri için hastalandıklarına inanmış. </font></small></p>
+      <p><small><font face="Verdana"><a HREF="../../cafe/all/dhmo.html"
+      tppabs="http://www.avni.com/cafe/all/dhmo.html"><b>Görünmeyen katil</b></a> yazısı da
+      benzer bir yanlışı inceler. Di hidrojen monoksit içtiğimiz sudur (H<sub>2</sub>O). </font></small></p>
+      <hr>
+      <p><small><font face="Verdana">Bu bölümde yukarıdaki iki kavramı basitçe ve kısaca
+      tanımlayacağım. Bu konulardaki detaylı bilgi ve tartışmalar için felsefe
+      kitaplarına başvurmanız gerekir. </font></small></p>
+      <p><small><font face="Verdana"><b>Nedensellik</b>: Bir olayla daima onun arkasından gelen
+      olay arasındaki nesnel ve zorunlu bağlantı. </font></small></p>
+      <p><small><font face="Verdana">Güneş çıkarsa toprak ısınır; demek ki sıcaklık
+      sonucu güneş nedeniyle ilişkilidir. </font></small></p>
+      <p><small><font face="Verdana">İki olay her zaman ve her yerde aynı şekilde
+      gerçekleşiyorsa ve hiç değişmiyorsa aradaki ilişki zorunlu, insanların her türlü
+      müdahalesinin olayda hiç bir etkisi yoksa ilişki nesneldir. </font></small></p>
+      <p><small><font face="Verdana"><b>Korelasyon</b>: İki fiziksel, sosyal veya biyolojik
+      olgu, aynı dış etkenler nedeniyle, birbirleriyle orantılı olarak ve aynı anda
+      artıyor veya azalıyorsa, bu iki olgu arasında poztif korelasyon; biri artarken diğeri
+      de aynı oranda azalıyorsa bu iki olgu arasında negatif korelasyon vardır. Korelasyon
+      matematiksel bir formülle hesaplanır. </font></small></p>
+      <hr>
+      <p><small><font face="Verdana">1.Şair Eşref'e, &quot;şiirlerinde niçin hedefin adını
+      belirtmiyorsun?&quot; diye sormuşlar; &quot;ben onların numarasız gözlük gibi
+      olmasını ve her uyana yakışmasını istiyorum da ondan,&quot; diye cevap vermiş. </font></small></p>
+      <hr>
+      <form ACTION="http://nohut.com" method="POST">
+        <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+        onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+        NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+        size="1">
+          <option value="selcted">Bir Konu Seçin </option>
+          <option value="leylek.htm">Leylek Teorisi</option>
+          <option value="alice.htm">Reçel Paradoksu</option>
+          <option value="kola.htm">Kola Fiziği</option>
+          <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+          <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+          <option value="dictionary.htm">Sözlük okur musunuz?</option>
+          <option value="huck.htm">Adam gibi konuş</option>
+          <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+          <option value="cult.htm">Bana kültünü söyle</option>
+          <option value="illogical.htm">Illogical language</option>
+          <option value="prooftech.html">Kanıtlama teknikleri</option>
+          <option value="paradox.htm">Paradokslar üzerine</option>
+<option value="paradoks.htm">Paradokslar</option>
+          <option value="shakespeare.htm">Bir acayip tesadüf</option>
+          <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+          <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+          <option value="fallacies.htm">Vurgulama</option>
+          <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+          <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+          <option value="avni.htm">Fatih'ten gazeller</option>
+          <option value="fal.htm">Neyse halin, çıksın falın</option>
+          <option value="metafizik.htm">Metafizik</option>
+        </select></p>
+        </center></div>
+      </form>
+    </blockquote>
+    <blockquote>
+      <p align="center"><small><small><small><font face="Verdana">© 1999</font></small></small></small></p>
+    </blockquote>
+    <blockquote>
+    </blockquote>
+    </td>
+    <td width="109" height="412" bordercolor="#C0C0C0" bgcolor="#000000"></td>
+  </tr>
+</table>
+
+<table border="0" width="719" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><p align="center"><font color="#FFFFFF" face="Verdana"><strong><small><small><a
+    href="../../index-1.htm">FUAYE</a> | <a href="../../sphinx/index.htm">SFENKS</a></small> <small>|</small>
+    <small><a href="../index.htm">DIM</a> | <a href="../../mc/index.htm">MINERVA</a></small> <small>|
+    <a href="../../solomon/index.htm">SULEYMAN</a></small> <small>| <a href="mak/index.htm">ARCHIMEDES</a></small>
+    <small>| <a href="../../cafe/index.htm">KAFE</a></small> <small>| <a
+    href="../../mails/index.htm">MAIL</a></small> </small><font size="1">| <a
+    href="../../enigma/index.htm">ENİGMA</a> </font><small><small>| <a
+    href="../../lyrics/carmina.html">CARMINA</a></small> <small>| <a
+    href="../../lyrics/index.html">LYRICS</a></small> <small>| <a href="../../test.html">TEST</a>
+    | <a href="../../yeni.htm">YENİ</a></small></small></strong></font></td>
+  </tr>
+</table>
+
+<p><small><font face="MS Sans Serif"><small>© MucitDESIGN All rights reserved</small></font></small></p>
+</body>
+</html>

@@ -1,0 +1,263 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<meta name="eflatun" content="eflatunweb">
+<style>
+<!--
+        A:link    {text-decoration: none; color: white; font-family: verdana;}
+		A:visited {text-decoration: none; color: white; font-family: verdana;}
+		A:active  {text-decoration: none; color: white; font-family: verdana;}
+		A:hover   {text-decoration: underline; color: white; font-family: verdana;}
+-->
+</style>
+<title>Metafizik</title>
+</head>
+
+<body>
+<bgcolor="blue">
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="84">
+  <tr>
+    <td width="719" bgcolor="#000000" bordercolor="#008080" bordercolorlight="#008080"
+    bordercolordark="#008080" height="80"><p align="center"
+    style="margin-top: 1px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px"><font
+    color="#FFFFFF" face="Verdana"><u><big><strong>D I M</strong></big></u></font></p>
+    <form ACTION="http://nohut.com" method="POST">
+      <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+      onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+      NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+      size="1">
+        <option value="selcted">Bir Konu Seçin </option>
+        <option value="leylek.htm">Leylek Teorisi</option>
+        <option value="alice.htm">Reçel Paradoksu</option>
+        <option value="kola.htm">Kola Fiziği</option>
+        <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+        <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+        <option value="dictionary.htm">Sözlük okur musunuz?</option>
+        <option value="huck.htm">Adam gibi konuş</option>
+        <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+        <option value="cult.htm">Bana kültünü söyle</option>
+        <option value="illogical.htm">Illogical language</option>
+        <option value="prooftech.html">Kanıtlama teknikleri</option>
+        <option value="paradox.htm">Paradokslar üzerine</option>
+<option value="paradoks.htm">Paradokslar</option>
+        <option value="shakespeare.htm">Bir acayip tesadüf</option>
+        <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+        <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+        <option value="fallacies.htm">Vurgulama</option>
+        <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+        <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+        <option value="avni.htm">Fatih'ten gazeller</option>
+        <option value="fal.htm">Neyse halin, çıksın falın</option>
+        <option value="metafizik.htm">Metafizik</option>
+      </select></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="416">
+  <tr>
+    <td width="143" height="412" bgcolor="#000000" valign="top"><p align="center"><strong><font
+    color="#FFFFFF" face="Verdana"><br>
+    <a href="../../index-1.htm"><small>FUAYE</small></a><br>
+    <a href="../../sphinx/index.htm"><small>SFENKS</small></a><br>
+    <a href="../index.htm"><small>DIM</small></a><br>
+    <a href="../../mc/index.htm"><small>MINERVA</small></a><br>
+    <a href="../../solomon/index.htm"><small>SULEYMAN</small></a><br>
+    <a href="../../mak/index.htm"><small>ARCHIMEDES</small></a><br>
+    <a href="../../cafe/index.htm"><small>KAFE ENTROPİ</small></a><br>
+    <a href="../../mails/index.htm"><small>MAIL</small></a><br>
+    </font><font face="Verdana" size="2" color="#FFFFFF"><a href="../../enigma/index.htm">ENİGMA</a><br>
+    </font><font color="#FFFFFF" face="Verdana"><a href="../../lyrics/carmina.html"><small>CARMINA</small></a><br>
+    <a href="../../lyrics/index.html"><small>LYRICS</small></a><br>
+    <small><a href="../../test.html">TEST</a><br>
+    <a href="../../yeni.htm">YENİ</a></small><br>
+    <br>
+    </font></strong></td>
+    <td width="7" height="12" bordercolor="#C0C0C0" bgcolor="#800000" valign="top"></td>
+    <td width="457" height="412" bordercolor="#C0C0C0" bgcolor="#C0C0C0" valign="top"><blockquote>
+      <p>&nbsp;</p>
+      <h2><u><font face="Verdana"><small>Metafizik</small></font></u></h2>
+      <h3><font face="Verdana"><small>Etimoloji ve tarihçe</small></font></h3>
+      <p><font face="Verdana"><small>Metafizik terimini ilk olarak Aristo'nun eserlerini kendine
+      göre düzenleyen Yunan Peripatetik filozof Rodos'lu Andronicus'un, MÖ 70 civarında
+      Roma'da kullandığı sanılıyor. Onun düzenlemesine göre, asıl adı <b>İlk Felsefe</b>
+      veya <b>Teoloji</b> olan risale, <b>Fizik</b> risalesinden sonra gelmekteydi. Böylece de,
+      <b>İlk Felsefe</b> <i>meta (ta) physica</i>, ya da fiziği izleyen, olarak biline geldi
+      ve zamanla kısaltılarak metafizik oldu. </small></font></p>
+      <p><font face="Verdana"><small>Aristo'nun <b>Metafizik</b>'indeki konular (cevher,
+      nedensellik, var olmanın mahiyeti, ve Tanrı'nın varlığı) yüzyıllarca metafiziksel
+      spekülasyonların içeriğini belirledi. Metafizik Ortaçağın skolastik filozofları
+      arasında <i>transphysical</i> (fizik ötesi) bilim olarak bilinirdi. Bunun nedeni de
+      onların, bir öğrencinin fiziksel dünyadan algıların ötesindeki dünyaya metafizik
+      vasıtasıyla felsefi olarak geçiş yapabileceğine inanmalarıydı. 13. yüzyıl
+      skolastik filozof ve ilahiyatçısı Aziz Thomas Aquinas, metafiziğin amacının, <i>sonlu
+      ve algılanabilir varlıkların nedensel açıdan incelenmesi yoluyla Tanrının
+      tanınması olduğunu</i> bildirdi. 16. yüzyılda bilimsel araştırmaların
+      yükselişiyle birlikte bilim ve imanın uzlaştırılması gittikçe önem kazandı. </small></font></p>
+      <h3><font face="Verdana"><small>Akademik anlam</small></font></h3>
+      <p><font face="Verdana"><small>Metafizik, geleneksel olarak, görünen-görünmeyen tüm
+      gerçekliğin esas mahiyetini anlamaya çalışan felsefi bir alandır. Metafizikçi,
+      ilahi, insani veya başka ne türlü olursa olsun, her şeye uygulanabilecek en temel,
+      esas itibariyle en basit ve her şeyi kapsayan bir tanımlama peşindedir. </small></font></p>
+      <p><font face="Verdana"><small>Bu geleneksel ve felsefi anlamda birine metafizikçi demek,
+      onun her şeyin neden, öz ve mahiyetini anlamaya çalışan biri olduğunu söylemekle
+      aynı anlamdadır. Bu anlamda fizikçiden tek farkı, fizikçinin bu kavramları
+      açıklamak için gözlenebilen, ölçülebilen ve denenebilen nicelikler araması,
+      metafizikçinin ise sadece bunlara bağlı kalmayıp fiziksel alemin ötesindeki,
+      gözlenemeyen, ölçülemeyen ve denenemeyen açıklamaları da kabul etmesidir. Bu da
+      fizikçinin metafiziksel açıklamaları kabul etmeyeceği fakat metafizikçinin fiziksel
+      açıklamaları kabul edebileceği anlamına geliyor. </small></font></p>
+      <p><font face="Verdana"><small>Böyle bakınca, <i>madde ve hareketten başka bir şey
+      yoktur</i> diyen eski materyalistler ve <i>her şeyin cansız ve deneyim kazanamayan
+      enerjiden ibaret olduğunu</i> söyleyen yeni materyalistler kadar, <i>ideler veya zihin
+      ya da ruhtan başka bir şeyin var olmadığını</i> benimseyen idealistleri de
+      metafizikçi kategorisine sokmak yanlış olmaz. </small></font></p>
+      <h3><font face="Verdana"><small>Popüler anlam</small></font></h3>
+      <p><font face="Verdana"><small>Metafiziğin yaygın olarak kullanılan popüler ikincil
+      anlamı, bir çok insanın inandığı, fizikselin ötesindeki ve tartışmalı bir çok
+      olguyu içerir. Popüler metafizik, tamamen ayrılması mümkün olmasa da, geleneksel
+      olarak birbirine zıt iki alanı birbirine bağlar: </small></font><ol>
+        <li><font face="Verdana"><small><b>Mistisizm</b>: Nihai olanla (ki buna genel olarak Tanrı
+          denir) bir olma deneyimlerine verilen isim (<i>hakk al-yakin</i> veya <i>fena fillah</i>).
+          </small></font></li>
+        <li><font face="Verdana"><small><b>Occultism</b> (<i>Gizli bilimler veya gizlicilik</i>): <b>Telepati</b>,
+          <b>duru-görü</b> veya <b>uza-görü</b> (algıların ulaşamayacağı kadar uzaklardaki
+          olay ve nesneleri görme, <i>clairvoyance</i>), <b>hissi kablel-vuku</b> veya <b>geleceği
+          bilme</b> (<i>precognition</i>), <b>uzak geçmişi bilme</b> (kaydı olmayan tarihsel
+          olaylar gibi, <i>retrocognition</i>) ve <i>medyumluk</i> gibi bilmenin uzantılarına
+          (duyu ötesi algı, <i>extrasensory perception</i>, <b>ESP</b>) ve <b>telekinezi</b>, <b>psikokinezi</b>,
+          <b>büyü</b> gibi bunların tatbikatına verilen isim; çoğunlukla normal insan
+          faaliyetlerinin dışındadır. </small></font></li>
+      </ol>
+      <i><p><font face="Verdana"><small>Occult</i>ün akademik incelenmesi psişik
+      araştırmalar adıyla anılırdı, daha sonra parapsikoloji olarak isimlendirildi. </small></font></p>
+      <p align="center"><font face="Verdana"><small>*** </small></font></p>
+      <p><font face="Verdana"><small>Elimden geldiğince basite indirmeye çalıştığım
+      yukarıdaki açıklamalar size hala yeterince açık gelmiyorsa dert etmeyin, felsefi
+      kavramlar hiç bir zaman yeterince açık değildir. </small></font></p>
+      <p><font face="Verdana"><small>Benim kelimeler ve onların kullanımlarıyla ilgili
+      saplantılarım nedeniyle bu yazı buraya girmiş bulunuyor. Tabi bana sık sık <i>metafiziğe
+      inanıyor musun?</i> diye sorulmasının da bunda önemli bir payı var. Şimdi söyleyin
+      bakalım (metafizik kelimesinin geçtiği her yere uygun bir anlam koyun, bazılarını
+      ben yaptım, bazılarını size bıraktım): </small></font><ol>
+        <li><font face="Verdana"><small>Metafiziğe inanmalı mıyım, yoksa inanmamalı mı? </small></font></li>
+        <li><font face="Verdana"><small>Metafizik gerilimim olmalı mı olmamalı mı? </small></font></li>
+        <li><font face="Verdana"><small>Metafizik gerilimimi kaybetmiş gibi mi görünüyorum?
+          (Korkmayın canım, gerilim kelimesini tartışmayacağım.) </small></font></li>
+        <li><font face="Verdana"><small>Bir fizikçi veya genel olarak bir bilimci metafiziksel
+          açıklamaları kabul etmek zorunda mıdır? </small></font></li>
+        <li><font face="Verdana"><small>Herhangi bir metafiziksel açıklama objektif olarak
+          kanıtlanabilir mi? </small></font></li>
+        <li><font face="Verdana"><small><b>Neden?</b> sorusunu soran her insan aslında bir
+          metafizikçi değil midir? </small></font></li>
+        <li><font face="Verdana"><small>Evrensel (herkesin kabul edebileceği) bir metafizik sistemi
+          kurulabilir mi? </small></font></li>
+        <li><font face="Verdana"><small>Metafizik kişiye mi özgüdür? </small></font></li>
+        <li><font face="Verdana"><small>Ömründe metafiziksel (burada popüler anlamda) hiç bir
+          deneyim geçirmemiş birinin metafiziksele (burada, fiziksel alemin ötesi anlamında)
+          inanması gerekir mi? </small></font></li>
+        <li><font face="Verdana"><small>Bir insanın hiç bir metafiziksel (<i>occult</i>)
+          tecrübesi olmadığı halde yine de metafiziksel aleme inanıyor olması nasıl
+          açıklanabilir? </small></font></li>
+        <li><font face="Verdana"><small>Metafizikçiler Aristo veya Kant'ın müritleri mi? </small></font></li>
+        <li><font face="Verdana"><small>Din metafizik midir? </small></font></li>
+        <li><font face="Verdana"><small>Metafizik din midir? </small></font></li>
+        <li><font face="Verdana"><small>Dini inkar eden metafiziği de inkar etmiş olur mu? </small></font></li>
+        <li><font face="Verdana"><small>Metafiziği inkar eden dini de inkar etmiş olur mu? </small></font></li>
+        <li><font face="Verdana"><small>Evrim teorisi metafiziksel bir teori midir? </small></font></li>
+        <li><font face="Verdana"><small>Nedeni açıklanamayan her şey metafizik midir? </small></font></li>
+      </ol>
+      <p><font face="Verdana"><small>Batılı anlamda tam bir felsefi sistemin dört esası
+      vardır: <i>Epistemoloji</i>, <i>ontoloji</i>, <i>etik</i> ve <i>estetik</i>. </small></font></p>
+      <p><font face="Verdana"><small>Aslında metafizik ikiye ayrılır: <b>Ontoloji</b> ve <b>metafiziğin
+      kendisi</b> (<i>metaphyisics proper</i>, buna <b>öz metafizik</b> diyelim). Öz metafizik
+      mümkün olan bütün evrenlere uygulanabilecek esas ilkeler arar, ontoloji sadece içinde
+      yaşadığımız evrenle ilgili olan metafizik esasların peşindedir. </small></font></p>
+      <p><font face="Verdana"><small>Buna göre aşağıdaki sorulardan hangileri öz
+      metafiziksel hangileri ontolojiktir? </small></font><ol start="18">
+        <li><font face="Verdana"><small>Evren neyin içine genişliyor? </small></font></li>
+        <li><font face="Verdana"><small><b>Big Bang</b>'dan önce ne vardı? </small></font></li>
+        <li><font face="Verdana"><small>Algılanabilir evrenin ötesinde ne var? </small></font></li>
+        <li><font face="Verdana"><small>Kara delik tekilliğinin mahiyeti nedir? </small></font></li>
+        <li><font face="Verdana"><small>Başka evrenler var mı? </small></font></li>
+        <li><font face="Verdana"><small>Başka evrenler varsa oradaki fizik yasaları bizimki gibi
+          mi? </small></font></li>
+        <li><font face="Verdana"><small>Evrenimizin başına bir gün bilimsel kıyamet
+          senaryolarından biri gelirse, sonra ne olur? </small></font></li>
+        <li><font face="Verdana"><small><b>Big Crunch</b> (büyük çökme) olursa ardından yeni
+          bir evren vücuda gelir mi? </small></font></li>
+        <li><font face="Verdana"><small>Cennet/cehennem nedir, nerededir? </small></font></li>
+        <li><font face="Verdana"><small>Evrenin hammaddesi nereden geldi? </small></font></li>
+      </ol>
+      <p><font face="Verdana"><small><b>Son soru (TM)</b> </small></font><ol start="28">
+        <li><font face="Verdana"><small>Eskiden metafiziksel sayılan fakat bugün fiziksel
+          açıklaması bulunan bir konu veya olayı örnek veriniz. Yeterli zaman verilirse, en
+          azından teoride, bütün metafiziğin fizik haline gelebileceği kanıtlanabilir mi?
+          Kanıtlanabilirse, nasıl ve bu durum felsefe, din ve mistisizmi nasıl etkiler?
+          Kanıtlanamazsa, kanıtlanamayışı bir şey kanıtlar mı? </small></font></li>
+      </ol>
+      <hr>
+      <form ACTION="http://nohut.com" method="POST">
+        <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+        onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+        NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+        size="1">
+          <option value="selcted">Bir Konu Seçin </option>
+          <option value="leylek.htm">Leylek Teorisi</option>
+          <option value="alice.htm">Reçel Paradoksu</option>
+          <option value="kola.htm">Kola Fiziği</option>
+          <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+          <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+          <option value="dictionary.htm">Sözlük okur musunuz?</option>
+          <option value="huck.htm">Adam gibi konuş</option>
+          <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+          <option value="cult.htm">Bana kültünü söyle</option>
+          <option value="illogical.htm">Illogical language</option>
+          <option value="prooftech.html">Kanıtlama teknikleri</option>
+          <option value="paradox.htm">Paradokslar üzerine</option>
+<option value="paradoks.htm">Paradokslar</option>
+          <option value="shakespeare.htm">Bir acayip tesadüf</option>
+          <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+          <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+          <option value="fallacies.htm">Vurgulama</option>
+          <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+          <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+          <option value="avni.htm">Fatih'ten gazeller</option>
+          <option value="fal.htm">Neyse halin, çıksın falın</option>
+          <option value="metafizik.htm">Metafizik</option>
+        </select></p>
+        </center></div>
+      </form>
+    </blockquote>
+    <blockquote>
+      <p align="center"><small><small><small><font face="Verdana">© 1999</font></small></small></small></p>
+    </blockquote>
+    <blockquote>
+    </blockquote>
+    </td>
+    <td width="109" height="412" bordercolor="#C0C0C0" bgcolor="#000000"></td>
+  </tr>
+</table>
+
+<table border="0" width="719" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><p align="center"><font color="#FFFFFF" face="Verdana"><strong><small><small><a
+    href="../../index-1.htm">FUAYE</a> | <a href="../../sphinx/index.htm">SFENKS</a></small> <small>|</small>
+    <small><a href="../index.htm">DIM</a> | <a href="../../mc/index.htm">MINERVA</a></small> <small>|
+    <a href="../../solomon/index.htm">SULEYMAN</a></small> <small>| <a href="mak/index.htm">ARCHIMEDES</a></small>
+    <small>| <a href="../../cafe/index.htm">KAFE</a></small> <small>| <a
+    href="../../mails/index.htm">MAIL</a></small> </small><font size="1">| <a
+    href="../../enigma/index.htm">ENİGMA</a> </font><small><small>| <a
+    href="../../lyrics/carmina.html">CARMINA</a></small> <small>| <a
+    href="../../lyrics/index.html">LYRICS</a></small> <small>| <a href="../../test.html">TEST</a>
+    | <a href="../../yeni.htm">YENİ</a></small></small></strong></font></td>
+  </tr>
+</table>
+
+<p><small><font face="MS Sans Serif"><small>© MucitDESIGN All rights reserved</small></font></small></p>
+</body>
+</html>

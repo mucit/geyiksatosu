@@ -1,0 +1,387 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<meta name="eflatun" content="eflatunweb">
+<style>
+<!--
+        A:link    {text-decoration: none; color: white; font-family: verdana;}
+		A:visited {text-decoration: none; color: white; font-family: verdana;}
+		A:active  {text-decoration: none; color: white; font-family: verdana;}
+		A:hover   {text-decoration: underline; color: white; font-family: verdana;}
+-->
+</style>
+<title>Paradokslar</title>
+</head>
+
+<body>
+<bgcolor="blue">
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="84">
+  <tr>
+    <td width="719" bgcolor="#000000" bordercolor="#008080" bordercolorlight="#008080"
+    bordercolordark="#008080" height="80"><p align="center"
+    style="margin-top: 1px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px"><font
+    color="#FFFFFF" face="Verdana"><u><big><strong>D I M</strong></big></u></font></p>
+    <form ACTION="http://nohut.com" method="POST">
+      <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+      onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+      NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+      size="1">
+        <option value="selcted">Bir Konu Seçin </option>
+        <option value="leylek.htm">Leylek Teorisi</option>
+        <option value="alice.htm">Reçel Paradoksu</option>
+        <option value="kola.htm">Kola Fiziği</option>
+        <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+        <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+        <option value="dictionary.htm">Sözlük okur musunuz?</option>
+        <option value="huck.htm">Adam gibi konuş</option>
+        <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+        <option value="cult.htm">Bana kültünü söyle</option>
+        <option value="illogical.htm">Illogical language</option>
+        <option value="prooftech.html">Kanıtlama teknikleri</option>
+        <option value="paradox.htm">Paradokslar üzerine</option>
+        <option value="paradoks.htm">Paradokslar</option>
+        <option value="shakespeare.htm">Bir acayip tesadüf</option>
+        <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+        <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+        <option value="fallacies.htm">Vurgulama</option>
+        <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+        <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+        <option value="avni.htm">Fatih'ten gazeller</option>
+        <option value="fal.htm">Neyse halin, çıksın falın</option>
+        <option value="metafizik.htm">Metafizik</option>
+      </select></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="719" cellspacing="1" cellpadding="0" height="416">
+  <tr>
+    <td width="143" height="412" bgcolor="#000000" valign="top"><p align="center"><strong><font
+    color="#FFFFFF" face="Verdana"><br>
+    <a href="../../index-1.htm"><small>FUAYE</small></a><br>
+    <a href="../../sphinx/index.htm"><small>SFENKS</small></a><br>
+    <a href="../index.htm"><small>DIM</small></a><br>
+    <a href="../../mc/index.htm"><small>MINERVA</small></a><br>
+    <a href="../../solomon/index.htm"><small>SULEYMAN</small></a><br>
+    <a href="../../mak/index.htm"><small>ARCHIMEDES</small></a><br>
+    <a href="../../cafe/index.htm"><small>KAFE ENTROPİ</small></a><br>
+    <a href="../../mails/index.htm"><small>MAIL</small></a><br>
+    </font><font face="Verdana" size="2" color="#FFFFFF"><a href="../../enigma/index.htm">ENİGMA</a><br>
+    </font><font color="#FFFFFF" face="Verdana"><a href="../../lyrics/carmina.html"><small>CARMINA</small></a><br>
+    <a href="../../lyrics/index.html"><small>LYRICS</small></a><br>
+    <small><a href="../../test.html">TEST</a><br>
+    <a href="../../yeni.htm">YENİ</a></small><br>
+    <br>
+    </font></strong></td>
+    <td width="7" height="12" bordercolor="#C0C0C0" bgcolor="#800000" valign="top"></td>
+    <td width="457" height="412" bordercolor="#C0C0C0" bgcolor="#C0C0C0" valign="top"><blockquote>
+      <p>&nbsp;</p>
+      <h2><u><small><font face="Verdana">Paradokslar</font></small></u></h2>
+      <font size="1"><p></font><font face="Verdana" size="1">Daha önce okumadıysan <a
+      href="paradox.htm" tppabs="http://www.avni.com/dim/all/paradox.htm"><b>Paradokslar
+      üzerine</b></a>'yi okumanın tam zamanıdır</font><font face="Verdana"><small>. </small></font></p>
+      <hr>
+      <h3><small><font face="Verdana">Socrates'in paradoksu</font></small></h3>
+      <p><small><font face="Verdana">&quot;Bilidiğim tek şey hiç bir şey
+      bilmediğimdir.&quot; </font></small></p>
+      <h3><small><font face="Verdana">Thompson'un lamba paradoksu</font></small></h3>
+      <p><small><font face="Verdana">Bir lamba 1/2 dakika yanık, 1/4 dk sönük, 1/8 dk yanık
+      ... olacak şekilde lambanın düğmesi açılıp kapatılıyor. 1 dakikanın sonunda
+      düğmeye kaç kez basılmış olur? Bu sırada lamba yanık mı olur sönük mü? </font></small></p>
+      <h3><small><font face="Verdana">Sürpriz sınav paradoksu</font></small></h3>
+      <p><small><font face="Verdana">Öğretmen Cuma günü şöyle diyor: &quot;Gelecek hafta
+      hiç ummadığınız bir gün sizi yazılı yapacağım.&quot; </font></small></p>
+      <p><small><font face="Verdana">Sınavın haftaya Cuma günü yapılamayacağı açık,
+      çünkü Cumaya kadar sınav yapılmamışsa o gün herkes okula sınav olacağını
+      bilerek gelecektir. Aynı nedenle Perşembe de yapılamaz, çünkü Cuma günü yapılacak
+      sınav sürpriz olmayacağından Perşembe'ye kadar sınav olmamışsa öğrenciler
+      sınavın o gün yapılacağına kesin gözüyle bakacaklardır. Bu da Perşembe günü
+      yapılacak sınavın sürpriz olmaması demektir. </font></small></p>
+      <p><small><font face="Verdana">O halde sınav Perşembe'den önce yapılmalıdır. Ancak
+      sınav Salı günü de yapılmamışsa Perşembe günü de yapılamayacağından
+      Çarşamba günü yapılmalıdır. Bu da Çarşamba günü yapılacak sınavı sürpriz
+      olmaktan çıkarır. </font></small></p>
+      <p><small><font face="Verdana">Aynı şekilde mantık yürütürsek, Salı ve
+      dolayısıyla Pazartesi günü yapılacak sınavın da sürpriz olamayacağı sonucuna
+      varırız. Öyleyse öğretmen gelecek hafta sınav yapmayacaktır. </font></small></p>
+      <p><small><font face="Verdana">Fakat biraz düşünürsek, öğretmenin gelecek hafta
+      yerine gelecek yıl demiş olması durumunda da aynı akıl yürütmeyle sürpriz bir
+      sınavın yapılamayacağı sonucuna varırdık. Ama bu saçmalık; çünkü hepimizin
+      bildiği gibi, her dönem 3 sınav olacağını bildiğimiz halde öğretmenin
+      &quot;çıkarın kağıtları, yazılısınız,&quot; demesi her zaman sürprizdir. </font></small></p>
+      <p><small><font face="Verdana">Bu paradoks 50 yılı aşkın bir zamandan beri
+      felsefecileri, matematikçileri ve mantıkçıları uğraştırmaktadır. Halen tatminkar
+      bir çözüm bulunamamıştır. </font></small></p>
+      <h3><small><font face="Verdana">Alaaddin'in cini paradoksu</font></small></h3>
+      <p><small><font face="Verdana">(Robert Louis Stevenson'un <i>Şişedeki Cin</i>) </font></small></p>
+      <p><small><font face="Verdana">Biri sihirli lambayı sizin istediğiniz fiyata size satmak
+      istiyor, ancak bir uyarısı var: Cin sizin bir arzunuzu yerine getirdikten sonra lambayı
+      satın aldığınızdan daha az bir fiyata satacaksınız. Aksi halde cin size eşi
+      görülmemiş işkenceler yapacak. Onu atamaz veya bedava veremezsiniz. Lambayı kaça
+      alırdınız? </font></small></p>
+      <p><small><font face="Verdana">Açıkça görülüyor ki, onu 5 bin liraya (yani,
+      tedavüldeki en küçük paraya) almazsınız, çünkü bundan daha azı olmadığından
+      başkasına satamazsınız. </font></small></p>
+      <p><small><font face="Verdana">10 bin liraya da almazsınız, çünkü sizden sonrakine 5
+      bin liraya satmak zorunda kalırsınız ve o da başka birine satamayacağından almak
+      istemez. </font></small></p>
+      <p><small><font face="Verdana">15 bin liraya alırsanız 10 bine birine satabilirsiniz, o
+      da 5 bine bir başkasına satabilir. Sonuncu kişi gene kimseye satamayacağından almak
+      istemeyecek ve lambanın elinde kalacağını düşünen sizin satmak istediğiniz kişi
+      de onu almayacaktır. </font></small></p>
+      <p><small><font face="Verdana">Genel olarak Türkiye nüfusu 80 milyon olsa siz lambayı
+      80 milyon X 5 bin liraya da almak istemeyeceksiniz. </font></small></p>
+      <p><small><font face="Verdana">Ancak bu satıra gelene kadar mutlaka aklınızda bir fiyat
+      geldi; örneğin bu lambayı 1 milyona alırım, sonra 900 bine birine okuturum demiş
+      olabilirsiniz. Sıra sonuncu kişiye gelene kadar kim öle kim kala. </font></small></p>
+      <h3><small><font face="Verdana"><a name="zeno"></a>Zeno paradoksları</font></small></h3>
+      <b><p><small><font face="Verdana">Zeno'nun 1. paradoksu</b> (<i>dichotomy</i>): </font></small></p>
+      <p><small><font face="Verdana">Bir nesnenin d yolunu alabilmesi için önce o yolun
+      d/2'sini gitmesi gerekir. Ancak d/2'sini gitmeden önce d/4'ünü gitmesi gerekir.
+      d/4'ünü gitmeden önce d/8'ini gitmesi gerekir vs. Bu dizi sonsuza kadar uzatılabilir.
+      Öyleyse bir yolun tamamını gitmek sonsuz sayıda hamle ile mümkündür. O halde d
+      uzunluğunda bir yol gidilemez. </font></small></p>
+      <p><small><font face="Verdana">Bu paradoksun fiziksel çözümü quantum fiziğinin
+      belirsizlik ilkesini beklemek zorunda kalmıştır. Bir uzunluktan sonra, yarı yollardaki
+      belirsizlik ihmal edilemeyecek kadar büyük olacaktır. Yarı yolun fiziksel bir anlamı
+      olmayacaktır. </font></small></p>
+      <p><small><font face="Verdana">Matematiksel çözümü cebiri ve <img SRC="gifs/seri.gif"
+      tppabs="http://www.avni.com/dim/all/gifs/seri.gif" ALT="seri toplam" ALIGN="MIDDLE"
+      width="90" height="52"> gibi sonsuz geometrik serilerin yakınsadığının
+      kanıtlanmasını beklemiştir. Gittikçe kısalan yarı yolları almak için geçen zaman
+      da git gide kısalmaktadır ve bunlar birbirini telafi eder. (<a href="zenokanit.htm"
+      tppabs="http://www.avni.com/dim/all/zenokanit.htm"><b>Kanıta</b></a> bakınız) </font></small></p>
+      <p><small><font face="Verdana"><b>Zeno'nun 2. paradoksu</b> (Achilles ve kaplumbağa
+      paradoksu): </font></small></p>
+      <p><small><font face="Verdana">Kaplumbağa yarışa d<sub>1</sub> kadar önden başlamış
+      olsun. Aşil'in ona yetişebilmesi için önce d<sub>1</sub> yolunu almış olması
+      gerekir, ancak bu sırada kaplumbağa d<sub>2</sub> kadar ilerlemiş olur. Aşil önce bu
+      d<sub>2</sub> yolunu almalıdır, ancak kaplumbağa d<sub>3</sub> kadar uzaklaşmış
+      olacaktır. Bu böylece devam ederse Aşil'in kaplumbağaya asla yetişemeyeceği
+      anlaşılır. Ancak Aşil kaplumbağaya yetişir ve onu geçer. Paradoks. </font></small></p>
+      <p><small><font face="Verdana">Bu paradoksun çözümü de yukarıdaki gibidir. </font></small></p>
+      <p><small><font face="Verdana"><b>Zeno'nun 3. paradoksu</b> (ok paradoksu): </font></small></p>
+      <p><small><font face="Verdana">Uçuş halindeki bir ok herhangi bir anda anlık olarak
+      durgun bir konumdadır. Ancak tam o anda aynı konumdaki hareketsiz sabit bir oktan ayırt
+      edilemez; öyleyse okun hareketi nasıl algılanıyor? </font></small></p>
+      <p><small><font face="Verdana"><b>Zeno'nun 4. paradoksu</b> (Stade paradoksu): </font></small></p>
+      <p><small><font face="Verdana">Bu paradox zaman ve mekanın belli bir miktar
+      bölünebileceği kabulünden doğar. (Tam metnini bulamadım, bilen var mı?) </font></small></p>
+      <h3><font face="Verdana"><small>Aristotales'in tekerlek paradoksu</small></font></h3>
+      <p><font face="Verdana"><small>Yunanca <i>Mechanica</i> adlı, Aristo'ya ait olduğu
+      şüpheli bir kitapta şu paradokstan söz edilir: </small></font></p>
+      <p><font face="Verdana"><small><img SRC="gifs/tekerlek.gif"
+      tppabs="http://www.avni.com/dim/all/gifs/tekerlek.gif" alt="Tren tekerleği" ALIGN="RIGHT"
+      width="245" height="73"> Şekildeki farklı yarıçaplı eşmerkezli daireleri göz
+      önüne alın (tekerlek ve jant gibi). Büyük dairenin üzerindeki her nokta ile küçük
+      dairenin üzerindeki her nokta arasında bire bir tekabül bulunur. O halde büyük daire
+      ne kadar yol aldıysa küçük daire de aynı miktarda yol almalıdır. Şekildeki yatay
+      iki çizgi bir tam tur sonra alınan yolu göstermektedir. Büyük dairenin yarıçapı r<sub>1</sub>,
+      küçük dairenin yarıçapı r<sub>2</sub> ise büyük dairenin çevresi 2.p.r<sub>1</sub>,
+      küçük dairenin çevresi 2.p.r<sub>2</sub> olur. Çizgilerin boyları eşit olduğuna
+      göre dairelerin çevreleri eşit ve dolayısıyla r<sub>1</sub> = r<sub>2</sub>
+      olmalıdır. </small></font></p>
+      <p><font face="Verdana"><small>Matematiksel olarak buradaki hata, iki çizgi üzerindeki
+      noktaların bire bir tekabülünün iki eğrinin de eşit uzunlukta olmasını
+      gerektirdiğini kabul etmekte yatıyor. Aslında herhangi bir uzunluktaki bir doğru
+      parçasındaki noktaların hepsinin kardinaliteleri aynıdır (<b>À</b><sub>1</sub>).
+      İster sonsuz uzunlukta bir doğru, ister bir düzlem, ister 3 boyutlu bir uzay, isterse
+      sonsuz boyutlu bir Öklid uzayı olsun yine fark etmez. Bunlardan herhangi birindeki
+      noktalar diğerindeki noktalara bire bir tekabül eder; ancak bu, iki çizginin
+      boylarının eşit olması demek değildir. </small></font></p>
+      <p><font face="Verdana"><small>Fiziksel olarak, tren tekerleklerine benzeyen ve her iki
+      dairesi de rayın üzerinde dönebilecek biçimde düzenlenen bir tekerlek iki sonuçtan
+      birini verir: </small></font><ol type="a">
+        <li><font face="Verdana"><small>tekerlek kesinlikle döndürülemez, veya </small></font></li>
+        <li><font face="Verdana"><small>dairelerden biri aynı yolun bir kısmında kayar. </small></font></li>
+      </ol>
+      <p><font face="Verdana"><small>Fiziksel dünyada paradoks yoktur. </small></font></p>
+      <p>&nbsp;</p>
+      <h3><font face="Verdana"><small>Arrow'un paradoksu</small></font></h3>
+      <p><font face="Verdana"><small>Tamamen demokratik bir oylama sadece pratikte değil
+      teoride de mümkün değildir. </small></font></p>
+      <h3><font face="Verdana"><small>Berber paradoksu</small></font></h3>
+      <p><font face="Verdana"><small>Seville'de kendisini tıraş edemeyen her erkek Seville
+      Berberi tarafından tıraş edilecektir. Berber kendisini tıraş etmeli midir? (Bu
+      paradoksu ortaya atan B Russell'dır.) </small></font></p>
+      <p><font face="Verdana"><small>Berber bir kadınsa paradoks yok, değilse böyle bir yasa
+      çıkarılamaz. <img SRC="gifs/para.gif"
+      tppabs="http://www.avni.com/dim/all/gifs/para.gif" alt="para paradoksu" ALIGN="RIGHT"
+      width="150" height="100"> </small></font></p>
+      <h3><font face="Verdana"><small>Para paradoksu</small></font></h3>
+      <p><font face="Verdana"><small>Aynı paradan ikisini yan yana koyup birini sabit tutarak
+      diğerini onun etrafında döndürün. Döndürülen para yarım tur attığında kendi
+      ekseni etrafında bir tam tur atmış olacaktır. </small></font></p>
+      <h3><font face="Verdana"><small>Epimenides paradoksu</small></font></h3>
+      <p><font face="Verdana"><small>MÖ 6 yüzyılda Epimenides şöyle dedi: &quot;Bütün
+      Giritliler yalancıdır, bunu bana Giritli bir şair söyledi.&quot; </small></font></p>
+      <p><font face="Verdana"><small>Şairin doğru söylediğini kabul edelim. Bu cümle
+      kendisi dahil bütün Giritlilerin yalancı olduğunu ifade ediyor. Öyleyse şair
+      yalancıdır. Çelişki. </small></font></p>
+      <p><font face="Verdana"><small>Şairin yalancı olduğunu kabul edelim. Bu durumda şunu
+      demiş olur: &quot;Bazı Giritliler (en az bir Giritli) yalancı değildir. Yalancı
+      olmayan en az bir Giritli varsa paradoks yok: Şair yalancıdır. </small></font></p>
+      <h3><font face="Verdana"><small>Timsahın dilemması</small></font></h3>
+      <p><font face="Verdana"><small>Timsahın biri Nil kenarında çamaşır yıkmakta olan bir
+      kadının bir anlık gafletinden yararlanarak onun çocuğunu yakaladı. Kadın çocuğunu
+      geri vermesi için timsaha yalvardı. Timsah, &quot;çocuğuna ne yapacağımı doğru
+      olarak tahmin edersen, onu sana veririm, aksi halde onu yerim,&quot; dedi. </small></font></p>
+      <p><font face="Verdana"><small>Kadın, &quot;Ay! Yavrumu yiyeceksin,&quot; diye bir
+      çığlık attı. </small></font></p>
+      <p><font face="Verdana"><small>Timsah, &quot;pekala,&quot; dedi, &quot;artık onu sana
+      veremem, çünkü böyle yaparsam sen yanlış tahminde bulunmuş olursun. Halbuki sana
+      yanlış tahminde bulunursan onu yiyeceğimi söylemiştim.&quot; </small></font></p>
+      <p><font face="Verdana"><small>&quot;Tam tersine,&quot; dedi kadın, &quot;yavrumu
+      yiyemezsin, çünkü onu yersen doğru tahminde bulunmuş olurum ve doğru tahminde
+      bulunduğumda onu bana vereceğini söylemiştin.&quot; </small></font></p>
+      <p><font face="Verdana"><small>(Benzer bir paradoks da şöyledir: Kral adama, &quot;bana
+      bir şey söyle, doğru çıkarsa seni astıracağım, yanlış çıkarsa senin boynunu
+      vurduracağım.&quot; Adam, &quot;benim boynumu vurduracaksın,&quot; dedi.) </small></font></p>
+      <h3><font face="Verdana"><small>Bütün kümelerin kümesi paradoksu</small></font></h3>
+      <p><font face="Verdana"><small>Profesör, &quot;bir kelime anlamıyla uyumlu ise ona <i>otolojik</i>,
+      değilse <i>hetereolojik</i> denir,&quot; dedi ve şu örneği verdi: &quot;Dört harfli
+      kelimeleri kısa kabul edersek, <i>kısa</i> kelimesinin kendisi de kısa olduğundan bu
+      kelime otolojiktir, <i>uzun</i> kelimesinin kendisi uzun olmadığından bu kelime
+      heterolojiktir. Aynı şekilde <i>üç</i> üç harfli olmadığından heterolojiktir, <i>dört</i>
+      dört harfli olduğundan otolojiktir.&quot; </small></font></p>
+      <p><font face="Verdana"><small>Bir öğrenci söz istedi: &quot;Hocam, heterolojik
+      kelimesinin kendisi heterolojik midir, yoksa otolojik mi?&quot; </small></font></p>
+      <p><font face="Verdana"><small>Bu, tabii ki, bir paradoks; heterolojik kelimesi otolojikse
+      heterolojik, heterolojikse otolojiktir. </small></font></p>
+      <h3><font face="Verdana"><small>Otel paradoksu</small></font></h3>
+      <p><font face="Verdana"><small>Sonsuz odalı bir otelin bütün odaları doludur. Bu otele
+      6 kişi daha gelirse bunlar nasıl yerleştirilebilir? </small></font></p>
+      <p><font face="Verdana"><small>n. odadaki müşteri n+6 numaralı odaya nakledilerek ilk 6
+      oda boşaltılır. (Peki yeni gelen müşteri sayısı sonsuz olsaydı?) </small></font></p>
+      <p><font face="Verdana"><small>Matematiksel olarak burada bir sorun yok, çünkü sonsuzun
+      matematiksel tanımına göre yeni gelenler yukarda verilen yöntemle yerleştirilebilir.
+      (Sonsuz sayıdaki müşteri için de aynı yöntem geçerlidir.) </small></font></p>
+      <p><font face="Verdana"><small>Fiziksel olarak da sorun yok, çünkü sonsuz odalı otel
+      bulur ve bütün odalarını doldurabilirseniz, yeni gelen 6 kişiyi yerleştirmeyi
+      üstlenebilirim. </small></font></p>
+      <h3><font face="Verdana"><small>Kutu kutu top</small></font></h3>
+      <ol type="a">
+        <li><font face="Verdana"><small>Bir kutuya her defasında 10 top konup 10. top geri
+          alınıyor. Bu işe sonsuz kere devam ettiğimizde kutuda kaç top kalır? </small></font></li>
+        <li><font face="Verdana"><small>Bir kutuya her defasında 10 top konup sırayla 1. toptan
+          itibaren birer top geri alınacaktır. Bu işe sonsuz kere devam ettiğimizde kutuda kaç
+          top kalır? </small></font></li>
+      </ol>
+      <h3><font face="Verdana"><small>Simpson'un paradoksu</small></font></h3>
+      <p><font face="Verdana"><small>Farklı grupların ortalamalarının ortalaması grupların
+      birleşik haldeki ortalamasına eşit olmak zorunda değildir. </small></font></p>
+      <h3><font face="Verdana"><small>İlk dava (Avukatın dilemması)</small></font></h3>
+      <p><font face="Verdana"><small>Bunu <a href="mailto:msungur@feza.zaman.com.tr"><b>Mustafa
+      Sungur</b></a> gönderdi. </small></font></p>
+      <p><font face="Verdana"><small>Hukuk fakültesini bitiren genç, ülkenin en ünlü
+      avukatının yanında staj yapmak için başvuruda bulunur. Avukat gence tek şart ileri
+      sürer: &quot;İlk davandan elde ettiğin bütün parayı bana vereceksin&quot;. Anlaşma
+      imzalanır ve iki yıl beraber çalışırlar. Tam staj bittiğinde genç anlaşmayı
+      haksız bulduğunu, ilk davadan kazandığı parayı ona vermeyeceğini açıklar. Avukat
+      tazminat talebi ile mahkemeye başvurur. </small></font></p>
+      <p><font face="Verdana"><small>Hakimin kararı ne olmalıdır? </small></font></p>
+      <p><font face="Verdana"><small>İki davalı duruşmada hakimin karşısına geçtiğinde
+      avukat şunu söyler: </small></font></p>
+      <p><font face="Verdana"><small>&quot;-Sayın yargıcım, bu davayı uzatmaya gerek yok;
+      çünkü eğer ben kazanırsam zaten parayı alacağım, eğer kaybedersem yine
+      alacağım, çünkü anlaşmamıza göre o ilk davasından kazandığı parayı bana
+      verecek.&quot; </small></font></p>
+      <p><font face="Verdana"><small>Hakim tam avukatı haklı bulacakken bu kez genç avukat
+      söz alır ve şöyle der: </small></font></p>
+      <p><font face="Verdana"><small>&quot;-Sayın yargıcım, evet avukat haklı, bu duruşma
+      gerçekten gereksiz, ama benim lehime; zira eğer ben bu davayı kazanırsam zaten ona
+      birşey ödemeyeceğim. Eğer kaybedersem, anlaşmamıza göre ilk davayı kaybettiğim
+      için ona yine bir şey ödemeyeceğim.&quot; </small></font></p>
+      <h3><font face="Verdana"><small>II. Murat'ın dilemması</small></font></h3>
+      <p><font face="Verdana"><small>Sultan II. Murat 1444 yılı Ağustos'unda tahtı 12
+      yaşlarındaki oğlu II. Mehmet'e (daha sonra Fatih Sultan Mehmet olacak) bıraktı. Tahta
+      bir çocuğun geçtiğini öğrenen İtalyan, Alman, Lehistan (şimdiki Polonya),
+      Macaristan, Sırp ve Ulahlardan müteşekkil yeni bir Haçlı Ordusu Eylül'de savaş ilan
+      edip Varna'ya kadar geldi. Bunun üzerine II. Mehmet Manisa'ya çekilen babası II.
+      Murat'a bir mektup gönderdi: </small></font></p>
+      <blockquote>
+        <p><font face="Verdana"><small>&quot;Padişah biz isek, size emrediyoruz, gelip ordunun
+        başına geçiniz; yok siz iseniz gelip devletinizi müdafaa ediniz.&quot; </small></font></p>
+      </blockquote>
+      <p><font face="Verdana"><small>Sultan Murat derhal Edirne'ye gelerek tahta yeniden oturdu
+      ve 10 Kasım 1444'te Varna'da Haçlılarla yapılan savaşta ordunun başında bulundu.
+      Haçlılar bozguna uğradı. </small></font></p>
+      <h3><font face="Verdana"><small>Kralın dilemması</small></font></h3>
+      <p><font face="Verdana"><small>Kral ülkenin yalancıları arasında bir yarışma açtı.
+      &quot;İşte bu yalan,&quot; diyebileceği bir yalan uydurana bir küp altın vadetti.
+      Yalancılar akın akın saraya gelip yalanlarını söylediler, fakat yalanlar ne kadar
+      akıl almaz olursa olsun kral hep, &quot;olabilir, niye olmasın ...&quot; gibi cevaplar
+      veriyordu. Böylece hem eğleniyor, hem de bir küp altından olmuyordu. </small></font></p>
+      <p><font face="Verdana"><small>Derken kahramanımız elinde boş bir küple huzura
+      çıktı ve konuştu: </small></font></p>
+      <p><font face="Verdana"><small>&quot;-Rahmetli dedeniz bir savaşa çıkacaktı, ancak o
+      günlerde hazinede yeterli para yoktu. Dedeniz dedemden bu küple bir küp altın borç
+      aldı ve 'bu borcumu torunum torununa ödeyecek,' diye söz verdi. Şimdi, dedenizin
+      borcunu bana ödemeniz için buraya geldim.&quot; </small></font></p>
+      <p><font face="Verdana"><small>Kral, &quot;işte bu kuyruklu bir yalan!&quot; deyince
+      adam, &quot;o halde ödülümü alayım,&quot; dedi. </small></font></p>
+      <hr>
+      <form ACTION="http://nohut.com" method="POST">
+        <small><font face="Arial" color="#FFFFFF" onmouseover="this.style.color='#FF0000'"
+        onmouseout="this.style.color='#FFFFFF'"><strong><div align="center"><center><p></strong></font></small>&nbsp;<select
+        NAME="Topic" onchange="window.open(this.options[this.selectedIndex].value,'_top')"
+        size="1">
+          <option value="selcted">Bir Konu Seçin </option>
+          <option value="leylek.htm">Leylek Teorisi</option>
+          <option value="alice.htm">Reçel Paradoksu</option>
+          <option value="kola.htm">Kola Fiziği</option>
+          <option value="yumurtakafa.htm">Alice ve Yumurtakafa</option>
+          <option value="bilimsi.htm">Bilim-kurgu ve bilimsi</option>
+          <option value="dictionary.htm">Sözlük okur musunuz?</option>
+          <option value="huck.htm">Adam gibi konuş</option>
+          <option value="turkce.htm">Ama kelime hazineniz zengin değilse...</option>
+          <option value="cult.htm">Bana kültünü söyle</option>
+          <option value="illogical.htm">Illogical language</option>
+          <option value="prooftech.html">Kanıtlama teknikleri</option>
+          <option value="paradox.htm">Paradokslar üzerine</option>
+          <option value="paradoks.htm">Paradokslar</option>
+          <option value="shakespeare.htm">Bir acayip tesadüf</option>
+          <option value="cennet.html">Cennet Cehennem'den daha sıcaktır!</option>
+          <option value="code-7.htm">Kitab-ı Mukaddes'te 7 li kodlama</option>
+          <option value="fallacies.htm">Vurgulama</option>
+          <option value="mantik.htm">Akıl yürütmenin çukurları (I)</option>
+          <option value="nedensellik.htm">Nedensellik ve korelasyon</option>
+          <option value="avni.htm">Fatih'ten gazeller</option>
+          <option value="fal.htm">Neyse halin, çıksın falın</option>
+          <option value="metafizik.htm">Metafizik</option>
+        </select></p>
+        </center></div>
+      </form>
+    </blockquote>
+    <blockquote>
+      <p align="center"><small><small><small><font face="Verdana">© 1999</font></small></small></small></p>
+    </blockquote>
+    <blockquote>
+    </blockquote>
+    </td>
+    <td width="109" height="412" bordercolor="#C0C0C0" bgcolor="#000000"></td>
+  </tr>
+</table>
+
+<table border="0" width="719" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><p align="center"><font color="#FFFFFF" face="Verdana"><strong><small><small><a
+    href="../../index-1.htm">FUAYE</a> | <a href="../../sphinx/index.htm">SFENKS</a></small> <small>|</small>
+    <small><a href="../index.htm">DIM</a> | <a href="../../mc/index.htm">MINERVA</a></small> <small>|
+    <a href="../../solomon/index.htm">SULEYMAN</a></small> <small>| <a href="mak/index.htm">ARCHIMEDES</a></small>
+    <small>| <a href="../../cafe/index.htm">KAFE</a></small> <small>| <a
+    href="../../mails/index.htm">MAIL</a></small> </small><font size="1">| <a
+    href="../../enigma/index.htm">ENİGMA</a> </font><small><small>| <a
+    href="../../lyrics/carmina.html">CARMINA</a></small> <small>| <a
+    href="../../lyrics/index.html">LYRICS</a></small> <small>| <a href="../../test.html">TEST</a>
+    | <a href="../../yeni.htm">YENİ</a></small></small></strong></font></td>
+  </tr>
+</table>
+
+<p><small><font face="MS Sans Serif"><small>© MucitDESIGN All rights reserved</small></font></small></p>
+</body>
+</html>
